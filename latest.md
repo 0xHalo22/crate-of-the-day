@@ -1,20 +1,19 @@
 # crate of the day — 2026-04-11
 
-## [`codelens-core`](https://crates.io/crates/codelens-core) `v0.1.2`
+## [`messagepack-serde`](https://crates.io/crates/messagepack-serde) `v0.2.3`
 
-> Core library for codelens - high performance code analysis tool
+> messagepack for `no_std` with `serde`
 
 | | |
 |---|---|
-| **downloads** | 122 (122 in the last 90 days) |
+| **downloads** | 4,078 (997 in the last 90 days) |
 | **last updated** | 2026-04-11 |
-| **docs** | https://docs.rs/codelens-core |
-| **repository** | https://github.com/DropFan/codelens.git |
-| **homepage** | https://github.com/DropFan/codelens |
+| **docs** | https://docs.rs/messagepack-serde |
+| **repository** | https://github.com/tunamaguro/messagepack-rs |
 
 ```toml
 [dependencies]
-codelens-core = "0.1.2"
+messagepack-serde = "0.2.3"
 ```
 
-_picked at 2026-04-11T18:19:04+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-04-11T19:18:34+00:00 from the crates.io `recent-updates` feed_

@@ -1,3 +1,4 @@
 [
-  "codelens-core"
+  "codelens-core",
+  "messagepack-serde"
 ]
