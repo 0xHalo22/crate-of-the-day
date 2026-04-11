@@ -1,0 +1,43 @@
+name: scrape
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/scrape.yml"
+      - ".github/scrape.py"
+  schedule:
+    # 14:07 UTC daily — off the hour, staggered from other daily jobs
+    - cron: "7 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: configure git identity
+        env:
+          GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+          GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
+          DEFAULT_USER: ${{ github.repository_owner }}
+        run: |
+          git config user.name "${GIT_USER_NAME:-$DEFAULT_USER}"
+          git config user.email "${GIT_USER_EMAIL:-$DEFAULT_USER@users.noreply.github.com}"
+
+      - name: scrape
+        run: python3 .github/scrape.py
+
+      - name: push
+        run: git push
