@@ -1,4 +1,5 @@
 [
   "codelens-core",
-  "messagepack-serde"
+  "messagepack-serde",
+  "mockforge-template-expansion"
 ]
