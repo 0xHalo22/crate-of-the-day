@@ -1,5 +1,6 @@
 [
   "codelens-core",
   "messagepack-serde",
-  "mockforge-template-expansion"
+  "mockforge-template-expansion",
+  "codex-mobile-bridge"
 ]
