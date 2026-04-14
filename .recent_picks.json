@@ -2,5 +2,6 @@
   "codelens-core",
   "messagepack-serde",
   "mockforge-template-expansion",
-  "codex-mobile-bridge"
+  "codex-mobile-bridge",
+  "librefang"
 ]
