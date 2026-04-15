@@ -3,5 +3,6 @@
   "messagepack-serde",
   "mockforge-template-expansion",
   "codex-mobile-bridge",
-  "librefang"
+  "librefang",
+  "typed_test_gen"
 ]
