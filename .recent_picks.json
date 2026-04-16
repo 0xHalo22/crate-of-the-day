@@ -4,5 +4,6 @@
   "mockforge-template-expansion",
   "codex-mobile-bridge",
   "librefang",
-  "typed_test_gen"
+  "typed_test_gen",
+  "spider_agent_html"
 ]
