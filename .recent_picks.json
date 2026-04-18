@@ -6,5 +6,6 @@
   "librefang",
   "typed_test_gen",
   "spider_agent_html",
-  "potato-macro"
+  "potato-macro",
+  "byokey-store"
 ]
