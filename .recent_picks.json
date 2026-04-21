@@ -9,5 +9,6 @@
   "potato-macro",
   "byokey-store",
   "pawan",
-  "minijinja-lua"
+  "minijinja-lua",
+  "grib"
 ]
