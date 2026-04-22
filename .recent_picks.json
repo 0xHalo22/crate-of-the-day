@@ -10,5 +10,6 @@
   "byokey-store",
   "pawan",
   "minijinja-lua",
-  "grib"
+  "grib",
+  "systemprompt"
 ]
