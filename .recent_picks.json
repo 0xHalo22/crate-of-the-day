@@ -11,5 +11,6 @@
   "pawan",
   "minijinja-lua",
   "grib",
-  "systemprompt"
+  "systemprompt",
+  "surfpool-types"
 ]
