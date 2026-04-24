@@ -12,5 +12,6 @@
   "minijinja-lua",
   "grib",
   "systemprompt",
-  "surfpool-types"
+  "surfpool-types",
+  "forgedns"
 ]
