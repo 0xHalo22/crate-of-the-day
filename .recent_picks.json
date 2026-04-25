@@ -13,5 +13,6 @@
   "grib",
   "systemprompt",
   "surfpool-types",
-  "forgedns"
+  "forgedns",
+  "panproto-cli"
 ]
