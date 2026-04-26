@@ -14,5 +14,6 @@
   "systemprompt",
   "surfpool-types",
   "forgedns",
-  "panproto-cli"
+  "panproto-cli",
+  "prax-sqlx"
 ]
