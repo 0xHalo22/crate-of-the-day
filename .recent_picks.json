@@ -15,5 +15,6 @@
   "surfpool-types",
   "forgedns",
   "panproto-cli",
-  "prax-sqlx"
+  "prax-sqlx",
+  "alef-extract"
 ]
