@@ -16,5 +16,6 @@
   "forgedns",
   "panproto-cli",
   "prax-sqlx",
-  "alef-extract"
+  "alef-extract",
+  "picky-asn1-x509"
 ]
