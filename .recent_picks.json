@@ -17,5 +17,6 @@
   "panproto-cli",
   "prax-sqlx",
   "alef-extract",
-  "picky-asn1-x509"
+  "picky-asn1-x509",
+  "greentic-start"
 ]
