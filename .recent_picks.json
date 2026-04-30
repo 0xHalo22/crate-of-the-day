@@ -18,5 +18,6 @@
   "prax-sqlx",
   "alef-extract",
   "picky-asn1-x509",
-  "greentic-start"
+  "greentic-start",
+  "zentinel-common"
 ]
