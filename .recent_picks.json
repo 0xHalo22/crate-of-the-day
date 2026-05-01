@@ -19,5 +19,6 @@
   "alef-extract",
   "picky-asn1-x509",
   "greentic-start",
-  "zentinel-common"
+  "zentinel-common",
+  "icm20948-rs"
 ]
