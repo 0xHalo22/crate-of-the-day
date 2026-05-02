@@ -20,5 +20,6 @@
   "picky-asn1-x509",
   "greentic-start",
   "zentinel-common",
-  "icm20948-rs"
+  "icm20948-rs",
+  "discordrs"
 ]
