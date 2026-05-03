@@ -21,5 +21,6 @@
   "greentic-start",
   "zentinel-common",
   "icm20948-rs",
-  "discordrs"
+  "discordrs",
+  "orion-error"
 ]
