@@ -22,5 +22,6 @@
   "zentinel-common",
   "icm20948-rs",
   "discordrs",
-  "orion-error"
+  "orion-error",
+  "poppy-sql"
 ]
