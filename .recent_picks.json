@@ -23,5 +23,6 @@
   "icm20948-rs",
   "discordrs",
   "orion-error",
-  "poppy-sql"
+  "poppy-sql",
+  "link-section"
 ]
