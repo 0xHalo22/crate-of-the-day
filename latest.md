@@ -1,19 +1,19 @@
 # crate of the day — 2026-05-07
 
-## [`otelite-api`](https://crates.io/crates/otelite-api) `v0.1.31`
+## [`alef-cli`](https://crates.io/crates/alef-cli) `v0.14.32`
 
-> Lightweight web dashboard for visualizing OpenTelemetry logs, traces, and metrics
+> CLI for the alef polyglot binding generator
 
 | | |
 |---|---|
-| **downloads** | 267 (267 in the last 90 days) |
+| **downloads** | 834 (834 in the last 90 days) |
 | **last updated** | 2026-05-07 |
-| **docs** | https://docs.rs/otelite-api |
-| **repository** | https://github.com/planetf1/otelite |
+| **docs** | https://docs.rs/alef-cli |
+| **repository** | https://github.com/kreuzberg-dev/alef |
 
 ```toml
 [dependencies]
-otelite-api = "0.1.31"
+alef-cli = "0.14.32"
 ```
 
-_picked at 2026-05-07T15:04:38+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-05-07T16:06:31+00:00 from the crates.io `recent-updates` feed_
