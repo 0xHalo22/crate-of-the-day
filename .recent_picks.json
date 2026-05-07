@@ -24,5 +24,6 @@
   "discordrs",
   "orion-error",
   "poppy-sql",
-  "link-section"
+  "link-section",
+  "otelite-api"
 ]
