@@ -14,6 +14,8 @@ import os
 import re
 import subprocess
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
@@ -35,10 +37,26 @@ MIN_DOWNLOADS = 100
 MIN_DESCRIPTION_LEN = 25
 
 
-def fetch_json(url: str) -> dict:
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.loads(r.read().decode("utf-8"))
+def fetch_json(url: str, attempts: int = 4, base_backoff: float = 2.0) -> dict:
+    """fetch a json url with retries.
+
+    crates.io's API is generally reliable but rate-limits aggressive callers.
+    we make at most 2 calls per day so we won't hit rate limits, but we still
+    want to ride out transient 5xx / network blips."""
+    last_err: Exception | None = None
+    backoff = base_backoff
+    for attempt in range(1, attempts + 1):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return json.loads(r.read().decode("utf-8"))
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, json.JSONDecodeError) as e:
+            last_err = e
+            if attempt < attempts:
+                print(f"    fetch attempt {attempt}/{attempts} failed ({type(e).__name__}: {e}); retrying in {backoff:.1f}s")
+                time.sleep(backoff)
+                backoff *= 2
+    raise RuntimeError(f"fetch failed after {attempts} attempts: {last_err}") from last_err
 
 
 def fetch_page(sort: str, page: int = 1) -> list[dict]:
