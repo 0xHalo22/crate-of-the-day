@@ -26,5 +26,6 @@
   "poppy-sql",
   "link-section",
   "otelite-api",
-  "alef-cli"
+  "alef-cli",
+  "tapis-pods"
 ]
