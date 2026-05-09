@@ -27,5 +27,6 @@
   "link-section",
   "otelite-api",
   "alef-cli",
-  "tapis-pods"
+  "tapis-pods",
+  "fingerprunk"
 ]
