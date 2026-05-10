@@ -1,5 +1,4 @@
 [
-  "codelens-core",
   "messagepack-serde",
   "mockforge-template-expansion",
   "codex-mobile-bridge",
@@ -28,5 +27,6 @@
   "otelite-api",
   "alef-cli",
   "tapis-pods",
-  "fingerprunk"
+  "fingerprunk",
+  "origin-types"
 ]
