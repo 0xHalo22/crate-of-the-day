@@ -1,5 +1,4 @@
 [
-  "messagepack-serde",
   "mockforge-template-expansion",
   "codex-mobile-bridge",
   "librefang",
@@ -28,5 +27,6 @@
   "alef-cli",
   "tapis-pods",
   "fingerprunk",
-  "origin-types"
+  "origin-types",
+  "uselesskey-rustls"
 ]
