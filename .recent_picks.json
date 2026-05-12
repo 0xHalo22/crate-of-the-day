@@ -1,5 +1,4 @@
 [
-  "mockforge-template-expansion",
   "codex-mobile-bridge",
   "librefang",
   "typed_test_gen",
@@ -28,5 +27,6 @@
   "tapis-pods",
   "fingerprunk",
   "origin-types",
-  "uselesskey-rustls"
+  "uselesskey-rustls",
+  "holochain_integrity_types"
 ]
