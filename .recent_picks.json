@@ -1,5 +1,4 @@
 [
-  "codex-mobile-bridge",
   "librefang",
   "typed_test_gen",
   "spider_agent_html",
@@ -28,5 +27,6 @@
   "fingerprunk",
   "origin-types",
   "uselesskey-rustls",
-  "holochain_integrity_types"
+  "holochain_integrity_types",
+  "meerkat-openai"
 ]
