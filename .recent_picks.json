@@ -1,5 +1,4 @@
 [
-  "librefang",
   "typed_test_gen",
   "spider_agent_html",
   "potato-macro",
@@ -28,5 +27,6 @@
   "origin-types",
   "uselesskey-rustls",
   "holochain_integrity_types",
-  "meerkat-openai"
+  "meerkat-openai",
+  "tairitsu-vdom"
 ]
