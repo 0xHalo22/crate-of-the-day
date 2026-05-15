@@ -1,5 +1,4 @@
 [
-  "typed_test_gen",
   "spider_agent_html",
   "potato-macro",
   "byokey-store",
@@ -28,5 +27,6 @@
   "uselesskey-rustls",
   "holochain_integrity_types",
   "meerkat-openai",
-  "tairitsu-vdom"
+  "tairitsu-vdom",
+  "cerberus-mergeguard"
 ]
