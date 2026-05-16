@@ -1,5 +1,4 @@
 [
-  "spider_agent_html",
   "potato-macro",
   "byokey-store",
   "pawan",
@@ -28,5 +27,6 @@
   "holochain_integrity_types",
   "meerkat-openai",
   "tairitsu-vdom",
-  "cerberus-mergeguard"
+  "cerberus-mergeguard",
+  "php-ast"
 ]
