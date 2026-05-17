@@ -1,5 +1,4 @@
 [
-  "potato-macro",
   "byokey-store",
   "pawan",
   "minijinja-lua",
@@ -28,5 +27,6 @@
   "meerkat-openai",
   "tairitsu-vdom",
   "cerberus-mergeguard",
-  "php-ast"
+  "php-ast",
+  "symjit"
 ]
