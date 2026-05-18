@@ -1,5 +1,4 @@
 [
-  "byokey-store",
   "pawan",
   "minijinja-lua",
   "grib",
@@ -28,5 +27,6 @@
   "tairitsu-vdom",
   "cerberus-mergeguard",
   "php-ast",
-  "symjit"
+  "symjit",
+  "kanade"
 ]
