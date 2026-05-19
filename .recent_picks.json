@@ -1,5 +1,4 @@
 [
-  "pawan",
   "minijinja-lua",
   "grib",
   "systemprompt",
@@ -28,5 +27,6 @@
   "cerberus-mergeguard",
   "php-ast",
   "symjit",
-  "kanade"
+  "kanade",
+  "hjkl-buffer"
 ]
