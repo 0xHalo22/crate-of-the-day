@@ -1,5 +1,4 @@
 [
-  "minijinja-lua",
   "grib",
   "systemprompt",
   "surfpool-types",
@@ -28,5 +27,6 @@
   "php-ast",
   "symjit",
   "kanade",
-  "hjkl-buffer"
+  "hjkl-buffer",
+  "vize_atelier_ssr"
 ]
