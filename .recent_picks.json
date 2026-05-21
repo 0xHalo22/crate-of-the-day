@@ -1,5 +1,4 @@
 [
-  "grib",
   "systemprompt",
   "surfpool-types",
   "forgedns",
@@ -28,5 +27,6 @@
   "symjit",
   "kanade",
   "hjkl-buffer",
-  "vize_atelier_ssr"
+  "vize_atelier_ssr",
+  "oximedia-search"
 ]
