@@ -1,5 +1,4 @@
 [
-  "systemprompt",
   "surfpool-types",
   "forgedns",
   "panproto-cli",
@@ -28,5 +27,6 @@
   "kanade",
   "hjkl-buffer",
   "vize_atelier_ssr",
-  "oximedia-search"
+  "oximedia-search",
+  "prollytree"
 ]
