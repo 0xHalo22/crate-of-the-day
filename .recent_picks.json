@@ -1,5 +1,4 @@
 [
-  "surfpool-types",
   "forgedns",
   "panproto-cli",
   "prax-sqlx",
@@ -28,5 +27,6 @@
   "hjkl-buffer",
   "vize_atelier_ssr",
   "oximedia-search",
-  "prollytree"
+  "prollytree",
+  "cljrs"
 ]
