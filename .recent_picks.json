@@ -1,5 +1,4 @@
 [
-  "forgedns",
   "panproto-cli",
   "prax-sqlx",
   "alef-extract",
@@ -28,5 +27,6 @@
   "vize_atelier_ssr",
   "oximedia-search",
   "prollytree",
-  "cljrs"
+  "cljrs",
+  "gen-orb-mcp"
 ]
