@@ -1,5 +1,4 @@
 [
-  "panproto-cli",
   "prax-sqlx",
   "alef-extract",
   "picky-asn1-x509",
@@ -28,5 +27,6 @@
   "oximedia-search",
   "prollytree",
   "cljrs",
-  "gen-orb-mcp"
+  "gen-orb-mcp",
+  "basin"
 ]
