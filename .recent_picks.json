@@ -1,5 +1,4 @@
 [
-  "prax-sqlx",
   "alef-extract",
   "picky-asn1-x509",
   "greentic-start",
@@ -28,5 +27,6 @@
   "prollytree",
   "cljrs",
   "gen-orb-mcp",
-  "basin"
+  "basin",
+  "fraiseql-observers"
 ]
