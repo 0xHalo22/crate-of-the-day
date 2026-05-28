@@ -1,5 +1,4 @@
 [
-  "alef-extract",
   "picky-asn1-x509",
   "greentic-start",
   "zentinel-common",
@@ -28,5 +27,6 @@
   "cljrs",
   "gen-orb-mcp",
   "basin",
-  "fraiseql-observers"
+  "fraiseql-observers",
+  "vey-mimalloc-sys"
 ]
