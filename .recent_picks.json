@@ -1,5 +1,4 @@
 [
-  "picky-asn1-x509",
   "greentic-start",
   "zentinel-common",
   "icm20948-rs",
@@ -28,5 +27,6 @@
   "gen-orb-mcp",
   "basin",
   "fraiseql-observers",
-  "vey-mimalloc-sys"
+  "vey-mimalloc-sys",
+  "unfault-core"
 ]
