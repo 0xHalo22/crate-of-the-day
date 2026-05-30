@@ -1,5 +1,4 @@
 [
-  "greentic-start",
   "zentinel-common",
   "icm20948-rs",
   "discordrs",
@@ -28,5 +27,6 @@
   "basin",
   "fraiseql-observers",
   "vey-mimalloc-sys",
-  "unfault-core"
+  "unfault-core",
+  "korea-investment-api"
 ]
