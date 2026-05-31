@@ -1,5 +1,4 @@
 [
-  "zentinel-common",
   "icm20948-rs",
   "discordrs",
   "orion-error",
@@ -28,5 +27,6 @@
   "fraiseql-observers",
   "vey-mimalloc-sys",
   "unfault-core",
-  "korea-investment-api"
+  "korea-investment-api",
+  "ic-memory"
 ]
