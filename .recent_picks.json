@@ -1,5 +1,4 @@
 [
-  "icm20948-rs",
   "discordrs",
   "orion-error",
   "poppy-sql",
@@ -28,5 +27,6 @@
   "vey-mimalloc-sys",
   "unfault-core",
   "korea-investment-api",
-  "ic-memory"
+  "ic-memory",
+  "hive-router-plan-executor"
 ]
