@@ -1,5 +1,4 @@
 [
-  "discordrs",
   "orion-error",
   "poppy-sql",
   "link-section",
@@ -28,5 +27,6 @@
   "unfault-core",
   "korea-investment-api",
   "ic-memory",
-  "hive-router-plan-executor"
+  "hive-router-plan-executor",
+  "vtcode-auth"
 ]
