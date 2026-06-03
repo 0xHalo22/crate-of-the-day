@@ -1,5 +1,4 @@
 [
-  "orion-error",
   "poppy-sql",
   "link-section",
   "otelite-api",
@@ -28,5 +27,6 @@
   "korea-investment-api",
   "ic-memory",
   "hive-router-plan-executor",
-  "vtcode-auth"
+  "vtcode-auth",
+  "mycelium-rcig-mcp"
 ]
