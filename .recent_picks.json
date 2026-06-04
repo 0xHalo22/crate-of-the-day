@@ -1,5 +1,4 @@
 [
-  "poppy-sql",
   "link-section",
   "otelite-api",
   "alef-cli",
@@ -28,5 +27,6 @@
   "ic-memory",
   "hive-router-plan-executor",
   "vtcode-auth",
-  "mycelium-rcig-mcp"
+  "mycelium-rcig-mcp",
+  "google-cloud-spanner"
 ]
