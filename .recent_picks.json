@@ -1,5 +1,4 @@
 [
-  "link-section",
   "otelite-api",
   "alef-cli",
   "tapis-pods",
@@ -28,5 +27,6 @@
   "hive-router-plan-executor",
   "vtcode-auth",
   "mycelium-rcig-mcp",
-  "google-cloud-spanner"
+  "google-cloud-spanner",
+  "hugr-cli"
 ]
