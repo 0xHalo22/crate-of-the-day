@@ -1,5 +1,4 @@
 [
-  "otelite-api",
   "alef-cli",
   "tapis-pods",
   "fingerprunk",
@@ -28,5 +27,6 @@
   "vtcode-auth",
   "mycelium-rcig-mcp",
   "google-cloud-spanner",
-  "hugr-cli"
+  "hugr-cli",
+  "mockforge-platform-signing"
 ]
