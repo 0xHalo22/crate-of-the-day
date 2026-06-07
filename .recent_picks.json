@@ -1,5 +1,4 @@
 [
-  "alef-cli",
   "tapis-pods",
   "fingerprunk",
   "origin-types",
@@ -28,5 +27,6 @@
   "mycelium-rcig-mcp",
   "google-cloud-spanner",
   "hugr-cli",
-  "mockforge-platform-signing"
+  "mockforge-platform-signing",
+  "alef"
 ]
