@@ -1,5 +1,4 @@
 [
-  "tapis-pods",
   "fingerprunk",
   "origin-types",
   "uselesskey-rustls",
@@ -28,5 +27,6 @@
   "google-cloud-spanner",
   "hugr-cli",
   "mockforge-platform-signing",
-  "alef"
+  "alef",
+  "spire-api"
 ]
