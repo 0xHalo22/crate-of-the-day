@@ -1,5 +1,4 @@
 [
-  "fingerprunk",
   "origin-types",
   "uselesskey-rustls",
   "holochain_integrity_types",
@@ -28,5 +27,6 @@
   "hugr-cli",
   "mockforge-platform-signing",
   "alef",
-  "spire-api"
+  "spire-api",
+  "moonpool-transport-derive"
 ]
