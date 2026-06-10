@@ -1,5 +1,4 @@
 [
-  "origin-types",
   "uselesskey-rustls",
   "holochain_integrity_types",
   "meerkat-openai",
@@ -28,5 +27,6 @@
   "mockforge-platform-signing",
   "alef",
   "spire-api",
-  "moonpool-transport-derive"
+  "moonpool-transport-derive",
+  "doppio"
 ]
