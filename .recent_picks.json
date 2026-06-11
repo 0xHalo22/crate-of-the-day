@@ -1,5 +1,4 @@
 [
-  "uselesskey-rustls",
   "holochain_integrity_types",
   "meerkat-openai",
   "tairitsu-vdom",
@@ -28,5 +27,6 @@
   "alef",
   "spire-api",
   "moonpool-transport-derive",
-  "doppio"
+  "doppio",
+  "hardened-malloc-sys"
 ]
