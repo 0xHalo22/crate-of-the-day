@@ -1,5 +1,4 @@
 [
-  "holochain_integrity_types",
   "meerkat-openai",
   "tairitsu-vdom",
   "cerberus-mergeguard",
@@ -28,5 +27,6 @@
   "spire-api",
   "moonpool-transport-derive",
   "doppio",
-  "hardened-malloc-sys"
+  "hardened-malloc-sys",
+  "solverforge-cvrp"
 ]
