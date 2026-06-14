@@ -1,5 +1,4 @@
 [
-  "tairitsu-vdom",
   "cerberus-mergeguard",
   "php-ast",
   "symjit",
@@ -28,5 +27,6 @@
   "doppio",
   "hardened-malloc-sys",
   "solverforge-cvrp",
-  "claudy"
+  "claudy",
+  "rusty_skelform_macroquad"
 ]
