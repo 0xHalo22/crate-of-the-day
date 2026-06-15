@@ -1,5 +1,4 @@
 [
-  "cerberus-mergeguard",
   "php-ast",
   "symjit",
   "kanade",
@@ -28,5 +27,6 @@
   "hardened-malloc-sys",
   "solverforge-cvrp",
   "claudy",
-  "rusty_skelform_macroquad"
+  "rusty_skelform_macroquad",
+  "dwctl"
 ]
