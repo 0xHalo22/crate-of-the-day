@@ -1,5 +1,4 @@
 [
-  "php-ast",
   "symjit",
   "kanade",
   "hjkl-buffer",
@@ -28,5 +27,6 @@
   "solverforge-cvrp",
   "claudy",
   "rusty_skelform_macroquad",
-  "dwctl"
+  "dwctl",
+  "ryra"
 ]
