@@ -1,5 +1,4 @@
 [
-  "symjit",
   "kanade",
   "hjkl-buffer",
   "vize_atelier_ssr",
@@ -28,5 +27,6 @@
   "claudy",
   "rusty_skelform_macroquad",
   "dwctl",
-  "ryra"
+  "ryra",
+  "octolib"
 ]
