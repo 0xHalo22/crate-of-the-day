@@ -1,5 +1,4 @@
 [
-  "kanade",
   "hjkl-buffer",
   "vize_atelier_ssr",
   "oximedia-search",
@@ -28,5 +27,6 @@
   "rusty_skelform_macroquad",
   "dwctl",
   "ryra",
-  "octolib"
+  "octolib",
+  "kevy-client"
 ]
