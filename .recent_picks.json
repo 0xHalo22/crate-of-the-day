@@ -1,5 +1,4 @@
 [
-  "hjkl-buffer",
   "vize_atelier_ssr",
   "oximedia-search",
   "prollytree",
@@ -28,5 +27,6 @@
   "dwctl",
   "ryra",
   "octolib",
-  "kevy-client"
+  "kevy-client",
+  "noxu-db"
 ]
