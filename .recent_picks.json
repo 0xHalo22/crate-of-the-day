@@ -1,5 +1,4 @@
 [
-  "vize_atelier_ssr",
   "oximedia-search",
   "prollytree",
   "cljrs",
@@ -28,5 +27,6 @@
   "ryra",
   "octolib",
   "kevy-client",
-  "noxu-db"
+  "noxu-db",
+  "confluence-cli"
 ]
