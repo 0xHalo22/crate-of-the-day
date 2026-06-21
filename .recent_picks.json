@@ -1,5 +1,4 @@
 [
-  "oximedia-search",
   "prollytree",
   "cljrs",
   "gen-orb-mcp",
@@ -28,5 +27,6 @@
   "octolib",
   "kevy-client",
   "noxu-db",
-  "confluence-cli"
+  "confluence-cli",
+  "aube"
 ]
