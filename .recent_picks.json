@@ -1,5 +1,4 @@
 [
-  "prollytree",
   "cljrs",
   "gen-orb-mcp",
   "basin",
@@ -28,5 +27,6 @@
   "kevy-client",
   "noxu-db",
   "confluence-cli",
-  "aube"
+  "aube",
+  "colorsnamed"
 ]
