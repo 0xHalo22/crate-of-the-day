@@ -1,5 +1,4 @@
 [
-  "cljrs",
   "gen-orb-mcp",
   "basin",
   "fraiseql-observers",
@@ -28,5 +27,6 @@
   "noxu-db",
   "confluence-cli",
   "aube",
-  "colorsnamed"
+  "colorsnamed",
+  "clin-rs"
 ]
