@@ -1,5 +1,4 @@
 [
-  "gen-orb-mcp",
   "basin",
   "fraiseql-observers",
   "vey-mimalloc-sys",
@@ -28,5 +27,6 @@
   "confluence-cli",
   "aube",
   "colorsnamed",
-  "clin-rs"
+  "clin-rs",
+  "libutils"
 ]
