@@ -1,5 +1,4 @@
 [
-  "basin",
   "fraiseql-observers",
   "vey-mimalloc-sys",
   "unfault-core",
@@ -28,5 +27,6 @@
   "aube",
   "colorsnamed",
   "clin-rs",
-  "libutils"
+  "libutils",
+  "hdf5-metno"
 ]
