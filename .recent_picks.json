@@ -1,5 +1,4 @@
 [
-  "fraiseql-observers",
   "vey-mimalloc-sys",
   "unfault-core",
   "korea-investment-api",
@@ -28,5 +27,6 @@
   "colorsnamed",
   "clin-rs",
   "libutils",
-  "hdf5-metno"
+  "hdf5-metno",
+  "facet-python"
 ]
