@@ -1,5 +1,4 @@
 [
-  "vey-mimalloc-sys",
   "unfault-core",
   "korea-investment-api",
   "ic-memory",
@@ -28,5 +27,6 @@
   "clin-rs",
   "libutils",
   "hdf5-metno",
-  "facet-python"
+  "facet-python",
+  "gam"
 ]
