@@ -1,5 +1,4 @@
 [
-  "unfault-core",
   "korea-investment-api",
   "ic-memory",
   "hive-router-plan-executor",
@@ -28,5 +27,6 @@
   "libutils",
   "hdf5-metno",
   "facet-python",
-  "gam"
+  "gam",
+  "autoconf-rs-cli"
 ]
