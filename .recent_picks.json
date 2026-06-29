@@ -1,5 +1,4 @@
 [
-  "korea-investment-api",
   "ic-memory",
   "hive-router-plan-executor",
   "vtcode-auth",
@@ -28,5 +27,6 @@
   "hdf5-metno",
   "facet-python",
   "gam",
-  "autoconf-rs-cli"
+  "autoconf-rs-cli",
+  "yog-book"
 ]
