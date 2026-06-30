@@ -1,5 +1,4 @@
 [
-  "ic-memory",
   "hive-router-plan-executor",
   "vtcode-auth",
   "mycelium-rcig-mcp",
@@ -28,5 +27,6 @@
   "facet-python",
   "gam",
   "autoconf-rs-cli",
-  "yog-book"
+  "yog-book",
+  "gam-runtime"
 ]
