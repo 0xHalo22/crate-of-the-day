@@ -1,5 +1,4 @@
 [
-  "hive-router-plan-executor",
   "vtcode-auth",
   "mycelium-rcig-mcp",
   "google-cloud-spanner",
@@ -28,5 +27,6 @@
   "gam",
   "autoconf-rs-cli",
   "yog-book",
-  "gam-runtime"
+  "gam-runtime",
+  "cuckoo-clock"
 ]
