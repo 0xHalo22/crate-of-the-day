@@ -1,5 +1,4 @@
 [
-  "vtcode-auth",
   "mycelium-rcig-mcp",
   "google-cloud-spanner",
   "hugr-cli",
@@ -28,5 +27,6 @@
   "autoconf-rs-cli",
   "yog-book",
   "gam-runtime",
-  "cuckoo-clock"
+  "cuckoo-clock",
+  "remem-ai"
 ]
