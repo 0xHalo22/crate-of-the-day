@@ -1,5 +1,4 @@
 [
-  "mycelium-rcig-mcp",
   "google-cloud-spanner",
   "hugr-cli",
   "mockforge-platform-signing",
@@ -28,5 +27,6 @@
   "yog-book",
   "gam-runtime",
   "cuckoo-clock",
-  "remem-ai"
+  "remem-ai",
+  "automake-rs"
 ]
