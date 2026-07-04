@@ -1,5 +1,4 @@
 [
-  "google-cloud-spanner",
   "hugr-cli",
   "mockforge-platform-signing",
   "alef",
@@ -28,5 +27,6 @@
   "gam-runtime",
   "cuckoo-clock",
   "remem-ai",
-  "automake-rs"
+  "automake-rs",
+  "tank-sqlite"
 ]
