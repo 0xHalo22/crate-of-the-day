@@ -1,5 +1,4 @@
 [
-  "mockforge-platform-signing",
   "alef",
   "spire-api",
   "moonpool-transport-derive",
@@ -28,5 +27,6 @@
   "remem-ai",
   "automake-rs",
   "tank-sqlite",
-  "lurq"
+  "lurq",
+  "viam-rust-utils"
 ]
