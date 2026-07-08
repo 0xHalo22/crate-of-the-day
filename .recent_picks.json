@@ -1,5 +1,4 @@
 [
-  "spire-api",
   "moonpool-transport-derive",
   "doppio",
   "hardened-malloc-sys",
@@ -28,5 +27,6 @@
   "tank-sqlite",
   "lurq",
   "viam-rust-utils",
-  "syster-lsp"
+  "syster-lsp",
+  "baracuda-cudf"
 ]
