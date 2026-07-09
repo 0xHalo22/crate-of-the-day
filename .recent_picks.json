@@ -1,5 +1,4 @@
 [
-  "moonpool-transport-derive",
   "doppio",
   "hardened-malloc-sys",
   "solverforge-cvrp",
@@ -28,5 +27,6 @@
   "lurq",
   "viam-rust-utils",
   "syster-lsp",
-  "baracuda-cudf"
+  "baracuda-cudf",
+  "canic-wasm-store"
 ]
