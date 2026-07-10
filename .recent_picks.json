@@ -1,5 +1,4 @@
 [
-  "doppio",
   "hardened-malloc-sys",
   "solverforge-cvrp",
   "claudy",
@@ -28,5 +27,6 @@
   "viam-rust-utils",
   "syster-lsp",
   "baracuda-cudf",
-  "canic-wasm-store"
+  "canic-wasm-store",
+  "skillfile-deploy"
 ]
