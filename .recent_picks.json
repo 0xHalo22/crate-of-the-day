@@ -1,5 +1,4 @@
 [
-  "hardened-malloc-sys",
   "solverforge-cvrp",
   "claudy",
   "rusty_skelform_macroquad",
@@ -28,5 +27,6 @@
   "syster-lsp",
   "baracuda-cudf",
   "canic-wasm-store",
-  "skillfile-deploy"
+  "skillfile-deploy",
+  "datum-mq"
 ]
