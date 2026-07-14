@@ -1,5 +1,4 @@
 [
-  "claudy",
   "rusty_skelform_macroquad",
   "dwctl",
   "ryra",
@@ -28,5 +27,6 @@
   "canic-wasm-store",
   "skillfile-deploy",
   "datum-mq",
-  "ontocore-plugin"
+  "ontocore-plugin",
+  "rigg-client"
 ]
