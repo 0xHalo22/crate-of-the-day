@@ -1,5 +1,4 @@
 [
-  "rusty_skelform_macroquad",
   "dwctl",
   "ryra",
   "octolib",
@@ -28,5 +27,6 @@
   "skillfile-deploy",
   "datum-mq",
   "ontocore-plugin",
-  "rigg-client"
+  "rigg-client",
+  "hc_service_check"
 ]
