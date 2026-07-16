@@ -1,5 +1,4 @@
 [
-  "dwctl",
   "ryra",
   "octolib",
   "kevy-client",
@@ -28,5 +27,6 @@
   "datum-mq",
   "ontocore-plugin",
   "rigg-client",
-  "hc_service_check"
+  "hc_service_check",
+  "lha"
 ]
