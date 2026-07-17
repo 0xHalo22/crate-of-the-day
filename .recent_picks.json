@@ -1,5 +1,4 @@
 [
-  "ryra",
   "octolib",
   "kevy-client",
   "noxu-db",
@@ -28,5 +27,6 @@
   "ontocore-plugin",
   "rigg-client",
   "hc_service_check",
-  "lha"
+  "lha",
+  "opentalk-roomserver-module-polls"
 ]
