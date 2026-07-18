@@ -1,5 +1,4 @@
 [
-  "octolib",
   "kevy-client",
   "noxu-db",
   "confluence-cli",
@@ -28,5 +27,6 @@
   "rigg-client",
   "hc_service_check",
   "lha",
-  "opentalk-roomserver-module-polls"
+  "opentalk-roomserver-module-polls",
+  "cranpose-ui"
 ]
