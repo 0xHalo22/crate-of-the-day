@@ -1,5 +1,4 @@
 [
-  "kevy-client",
   "noxu-db",
   "confluence-cli",
   "aube",
@@ -28,5 +27,6 @@
   "hc_service_check",
   "lha",
   "opentalk-roomserver-module-polls",
-  "cranpose-ui"
+  "cranpose-ui",
+  "fakecloud-ec2"
 ]
