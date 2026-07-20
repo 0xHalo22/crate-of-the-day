@@ -1,5 +1,4 @@
 [
-  "noxu-db",
   "confluence-cli",
   "aube",
   "colorsnamed",
@@ -28,5 +27,6 @@
   "lha",
   "opentalk-roomserver-module-polls",
   "cranpose-ui",
-  "fakecloud-ec2"
+  "fakecloud-ec2",
+  "murgamu"
 ]
