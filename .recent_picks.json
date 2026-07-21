@@ -1,5 +1,4 @@
 [
-  "confluence-cli",
   "aube",
   "colorsnamed",
   "clin-rs",
@@ -28,5 +27,6 @@
   "opentalk-roomserver-module-polls",
   "cranpose-ui",
   "fakecloud-ec2",
-  "murgamu"
+  "murgamu",
+  "panproto-git-remote"
 ]
