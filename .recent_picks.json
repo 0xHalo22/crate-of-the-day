@@ -1,5 +1,4 @@
 [
-  "aube",
   "colorsnamed",
   "clin-rs",
   "libutils",
@@ -28,5 +27,6 @@
   "cranpose-ui",
   "fakecloud-ec2",
   "murgamu",
-  "panproto-git-remote"
+  "panproto-git-remote",
+  "empyrean-cli"
 ]
