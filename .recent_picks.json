@@ -1,5 +1,4 @@
 [
-  "colorsnamed",
   "clin-rs",
   "libutils",
   "hdf5-metno",
@@ -28,5 +27,6 @@
   "fakecloud-ec2",
   "murgamu",
   "panproto-git-remote",
-  "empyrean-cli"
+  "empyrean-cli",
+  "dxpdf"
 ]
