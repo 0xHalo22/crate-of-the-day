@@ -1,5 +1,4 @@
 [
-  "clin-rs",
   "libutils",
   "hdf5-metno",
   "facet-python",
@@ -28,5 +27,6 @@
   "murgamu",
   "panproto-git-remote",
   "empyrean-cli",
-  "dxpdf"
+  "dxpdf",
+  "standard-githooks"
 ]
