@@ -1,5 +1,4 @@
 [
-  "libutils",
   "hdf5-metno",
   "facet-python",
   "gam",
@@ -28,5 +27,6 @@
   "panproto-git-remote",
   "empyrean-cli",
   "dxpdf",
-  "standard-githooks"
+  "standard-githooks",
+  "blazen-llm"
 ]
