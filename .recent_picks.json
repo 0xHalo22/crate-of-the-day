@@ -1,5 +1,4 @@
 [
-  "hdf5-metno",
   "facet-python",
   "gam",
   "autoconf-rs-cli",
@@ -28,5 +27,6 @@
   "empyrean-cli",
   "dxpdf",
   "standard-githooks",
-  "blazen-llm"
+  "blazen-llm",
+  "batless"
 ]
