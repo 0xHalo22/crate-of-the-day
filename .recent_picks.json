@@ -1,5 +1,4 @@
 [
-  "facet-python",
   "gam",
   "autoconf-rs-cli",
   "yog-book",
@@ -28,5 +27,6 @@
   "dxpdf",
   "standard-githooks",
   "blazen-llm",
-  "batless"
+  "batless",
+  "wscall-server"
 ]
