@@ -1,5 +1,4 @@
 [
-  "gam",
   "autoconf-rs-cli",
   "yog-book",
   "gam-runtime",
@@ -28,5 +27,6 @@
   "standard-githooks",
   "blazen-llm",
   "batless",
-  "wscall-server"
+  "wscall-server",
+  "cloud-sdk-testkit"
 ]
