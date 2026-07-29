@@ -1,5 +1,4 @@
 [
-  "autoconf-rs-cli",
   "yog-book",
   "gam-runtime",
   "cuckoo-clock",
@@ -28,5 +27,6 @@
   "blazen-llm",
   "batless",
   "wscall-server",
-  "cloud-sdk-testkit"
+  "cloud-sdk-testkit",
+  "ferromotion"
 ]
