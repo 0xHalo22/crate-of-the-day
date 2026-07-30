@@ -1,5 +1,4 @@
 [
-  "yog-book",
   "gam-runtime",
   "cuckoo-clock",
   "remem-ai",
@@ -28,5 +27,6 @@
   "batless",
   "wscall-server",
   "cloud-sdk-testkit",
-  "ferromotion"
+  "ferromotion",
+  "apollo-opentelemetry"
 ]
