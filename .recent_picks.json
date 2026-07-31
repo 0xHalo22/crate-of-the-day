@@ -1,5 +1,4 @@
 [
-  "gam-runtime",
   "cuckoo-clock",
   "remem-ai",
   "automake-rs",
@@ -28,5 +27,6 @@
   "wscall-server",
   "cloud-sdk-testkit",
   "ferromotion",
-  "apollo-opentelemetry"
+  "apollo-opentelemetry",
+  "zhtw"
 ]
