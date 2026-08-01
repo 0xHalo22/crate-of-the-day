@@ -1,5 +1,4 @@
 [
-  "cuckoo-clock",
   "remem-ai",
   "automake-rs",
   "tank-sqlite",
@@ -28,5 +27,6 @@
   "cloud-sdk-testkit",
   "ferromotion",
   "apollo-opentelemetry",
-  "zhtw"
+  "zhtw",
+  "aprender-present-terminal"
 ]
