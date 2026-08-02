@@ -1,5 +1,4 @@
 [
-  "remem-ai",
   "automake-rs",
   "tank-sqlite",
   "lurq",
@@ -28,5 +27,6 @@
   "ferromotion",
   "apollo-opentelemetry",
   "zhtw",
-  "aprender-present-terminal"
+  "aprender-present-terminal",
+  "vnrit"
 ]
