@@ -1,5 +1,4 @@
 [
-  "automake-rs",
   "tank-sqlite",
   "lurq",
   "viam-rust-utils",
@@ -28,5 +27,6 @@
   "apollo-opentelemetry",
   "zhtw",
   "aprender-present-terminal",
-  "vnrit"
+  "vnrit",
+  "vexil-runtime"
 ]
