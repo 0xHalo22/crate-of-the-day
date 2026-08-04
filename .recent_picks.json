@@ -1,5 +1,4 @@
 [
-  "tank-sqlite",
   "lurq",
   "viam-rust-utils",
   "syster-lsp",
@@ -28,5 +27,6 @@
   "zhtw",
   "aprender-present-terminal",
   "vnrit",
-  "vexil-runtime"
+  "vexil-runtime",
+  "net-lattice-model"
 ]
