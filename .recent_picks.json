@@ -1,5 +1,4 @@
 [
-  "lurq",
   "viam-rust-utils",
   "syster-lsp",
   "baracuda-cudf",
@@ -28,5 +27,6 @@
   "aprender-present-terminal",
   "vnrit",
   "vexil-runtime",
-  "net-lattice-model"
+  "net-lattice-model",
+  "esp-hal"
 ]
