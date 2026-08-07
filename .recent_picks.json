@@ -1,5 +1,4 @@
 [
-  "viam-rust-utils",
   "syster-lsp",
   "baracuda-cudf",
   "canic-wasm-store",
@@ -28,5 +27,6 @@
   "vnrit",
   "vexil-runtime",
   "net-lattice-model",
-  "esp-hal"
+  "esp-hal",
+  "dag-ml-wasm"
 ]
