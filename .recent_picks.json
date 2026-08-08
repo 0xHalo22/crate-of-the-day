@@ -1,5 +1,4 @@
 [
-  "syster-lsp",
   "baracuda-cudf",
   "canic-wasm-store",
   "skillfile-deploy",
@@ -28,5 +27,6 @@
   "vexil-runtime",
   "net-lattice-model",
   "esp-hal",
-  "dag-ml-wasm"
+  "dag-ml-wasm",
+  "agora-agentkit"
 ]
