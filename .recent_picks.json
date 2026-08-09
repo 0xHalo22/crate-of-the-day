@@ -1,5 +1,4 @@
 [
-  "baracuda-cudf",
   "canic-wasm-store",
   "skillfile-deploy",
   "datum-mq",
@@ -28,5 +27,6 @@
   "net-lattice-model",
   "esp-hal",
   "dag-ml-wasm",
-  "agora-agentkit"
+  "agora-agentkit",
+  "librtmp2"
 ]
