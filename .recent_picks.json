@@ -1,5 +1,4 @@
 [
-  "canic-wasm-store",
   "skillfile-deploy",
   "datum-mq",
   "ontocore-plugin",
@@ -28,5 +27,6 @@
   "esp-hal",
   "dag-ml-wasm",
   "agora-agentkit",
-  "librtmp2"
+  "librtmp2",
+  "segment-buffer"
 ]
