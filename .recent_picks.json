@@ -1,5 +1,4 @@
 [
-  "datum-mq",
   "ontocore-plugin",
   "rigg-client",
   "hc_service_check",
@@ -28,5 +27,6 @@
   "agora-agentkit",
   "librtmp2",
   "segment-buffer",
-  "dualis"
+  "dualis",
+  "horus-cli"
 ]
