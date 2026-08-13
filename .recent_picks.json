@@ -1,5 +1,4 @@
 [
-  "ontocore-plugin",
   "rigg-client",
   "hc_service_check",
   "lha",
@@ -28,5 +27,6 @@
   "librtmp2",
   "segment-buffer",
   "dualis",
-  "horus-cli"
+  "horus-cli",
+  "hydracache-macros"
 ]
