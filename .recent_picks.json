@@ -1,5 +1,4 @@
 [
-  "rigg-client",
   "hc_service_check",
   "lha",
   "opentalk-roomserver-module-polls",
@@ -28,5 +27,6 @@
   "segment-buffer",
   "dualis",
   "horus-cli",
-  "hydracache-macros"
+  "hydracache-macros",
+  "vtcode-macros"
 ]
