@@ -1,5 +1,4 @@
 [
-  "hc_service_check",
   "lha",
   "opentalk-roomserver-module-polls",
   "cranpose-ui",
@@ -28,5 +27,6 @@
   "dualis",
   "horus-cli",
   "hydracache-macros",
-  "vtcode-macros"
+  "vtcode-macros",
+  "onepipeline"
 ]
