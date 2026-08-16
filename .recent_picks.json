@@ -1,5 +1,4 @@
 [
-  "lha",
   "opentalk-roomserver-module-polls",
   "cranpose-ui",
   "fakecloud-ec2",
@@ -28,5 +27,6 @@
   "horus-cli",
   "hydracache-macros",
   "vtcode-macros",
-  "onepipeline"
+  "onepipeline",
+  "tatara-nix"
 ]
