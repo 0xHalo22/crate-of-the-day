@@ -1,5 +1,4 @@
 [
-  "cranpose-ui",
   "fakecloud-ec2",
   "murgamu",
   "panproto-git-remote",
@@ -28,5 +27,6 @@
   "vtcode-macros",
   "onepipeline",
   "tatara-nix",
-  "blazediff-png"
+  "blazediff-png",
+  "topcoat-router-grammar"
 ]
