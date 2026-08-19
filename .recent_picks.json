@@ -1,5 +1,4 @@
 [
-  "fakecloud-ec2",
   "murgamu",
   "panproto-git-remote",
   "empyrean-cli",
@@ -28,5 +27,6 @@
   "onepipeline",
   "tatara-nix",
   "blazediff-png",
-  "topcoat-router-grammar"
+  "topcoat-router-grammar",
+  "teaql-runtime"
 ]
