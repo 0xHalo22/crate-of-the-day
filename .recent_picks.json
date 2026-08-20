@@ -1,5 +1,4 @@
 [
-  "murgamu",
   "panproto-git-remote",
   "empyrean-cli",
   "dxpdf",
@@ -28,5 +27,6 @@
   "tatara-nix",
   "blazediff-png",
   "topcoat-router-grammar",
-  "teaql-runtime"
+  "teaql-runtime",
+  "axdevice_base"
 ]
