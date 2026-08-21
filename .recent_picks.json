@@ -1,5 +1,4 @@
 [
-  "panproto-git-remote",
   "empyrean-cli",
   "dxpdf",
   "standard-githooks",
@@ -28,5 +27,6 @@
   "blazediff-png",
   "topcoat-router-grammar",
   "teaql-runtime",
-  "axdevice_base"
+  "axdevice_base",
+  "noodles-vcf"
 ]
