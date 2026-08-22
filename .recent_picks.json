@@ -1,5 +1,4 @@
 [
-  "empyrean-cli",
   "dxpdf",
   "standard-githooks",
   "blazen-llm",
@@ -28,5 +27,6 @@
   "topcoat-router-grammar",
   "teaql-runtime",
   "axdevice_base",
-  "noodles-vcf"
+  "noodles-vcf",
+  "erl_parse"
 ]
