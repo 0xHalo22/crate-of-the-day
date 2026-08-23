@@ -1,5 +1,4 @@
 [
-  "dxpdf",
   "standard-githooks",
   "blazen-llm",
   "batless",
@@ -28,5 +27,6 @@
   "teaql-runtime",
   "axdevice_base",
   "noodles-vcf",
-  "erl_parse"
+  "erl_parse",
+  "faucet-sink-sftp"
 ]
