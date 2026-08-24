@@ -1,5 +1,4 @@
 [
-  "standard-githooks",
   "blazen-llm",
   "batless",
   "wscall-server",
@@ -28,5 +27,6 @@
   "axdevice_base",
   "noodles-vcf",
   "erl_parse",
-  "faucet-sink-sftp"
+  "faucet-sink-sftp",
+  "velr-runtime-windows-x86_64"
 ]
