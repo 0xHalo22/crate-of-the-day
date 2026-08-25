@@ -1,5 +1,4 @@
 [
-  "blazen-llm",
   "batless",
   "wscall-server",
   "cloud-sdk-testkit",
@@ -28,5 +27,6 @@
   "noodles-vcf",
   "erl_parse",
   "faucet-sink-sftp",
-  "velr-runtime-windows-x86_64"
+  "velr-runtime-windows-x86_64",
+  "ox_content_ast"
 ]
