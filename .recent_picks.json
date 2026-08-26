@@ -1,5 +1,4 @@
 [
-  "batless",
   "wscall-server",
   "cloud-sdk-testkit",
   "ferromotion",
@@ -28,5 +27,6 @@
   "erl_parse",
   "faucet-sink-sftp",
   "velr-runtime-windows-x86_64",
-  "ox_content_ast"
+  "ox_content_ast",
+  "janus_messages"
 ]
