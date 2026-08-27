@@ -1,5 +1,4 @@
 [
-  "wscall-server",
   "cloud-sdk-testkit",
   "ferromotion",
   "apollo-opentelemetry",
@@ -28,5 +27,6 @@
   "faucet-sink-sftp",
   "velr-runtime-windows-x86_64",
   "ox_content_ast",
-  "janus_messages"
+  "janus_messages",
+  "stateset-a2a"
 ]
