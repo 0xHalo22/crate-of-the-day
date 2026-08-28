@@ -1,5 +1,4 @@
 [
-  "cloud-sdk-testkit",
   "ferromotion",
   "apollo-opentelemetry",
   "zhtw",
@@ -28,5 +27,6 @@
   "velr-runtime-windows-x86_64",
   "ox_content_ast",
   "janus_messages",
-  "stateset-a2a"
+  "stateset-a2a",
+  "weaveffi-cli"
 ]
