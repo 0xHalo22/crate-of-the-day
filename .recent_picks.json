@@ -1,5 +1,4 @@
 [
-  "ferromotion",
   "apollo-opentelemetry",
   "zhtw",
   "aprender-present-terminal",
@@ -28,5 +27,6 @@
   "ox_content_ast",
   "janus_messages",
   "stateset-a2a",
-  "weaveffi-cli"
+  "weaveffi-cli",
+  "stitch-sync"
 ]
