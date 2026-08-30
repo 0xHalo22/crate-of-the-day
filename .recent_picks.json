@@ -1,5 +1,4 @@
 [
-  "apollo-opentelemetry",
   "zhtw",
   "aprender-present-terminal",
   "vnrit",
@@ -28,5 +27,6 @@
   "janus_messages",
   "stateset-a2a",
   "weaveffi-cli",
-  "stitch-sync"
+  "stitch-sync",
+  "git-tpl"
 ]
