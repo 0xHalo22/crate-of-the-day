@@ -1,5 +1,4 @@
 [
-  "zhtw",
   "aprender-present-terminal",
   "vnrit",
   "vexil-runtime",
@@ -28,5 +27,6 @@
   "stateset-a2a",
   "weaveffi-cli",
   "stitch-sync",
-  "git-tpl"
+  "git-tpl",
+  "docling-rag"
 ]
