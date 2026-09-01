@@ -1,5 +1,4 @@
 [
-  "aprender-present-terminal",
   "vnrit",
   "vexil-runtime",
   "net-lattice-model",
@@ -28,5 +27,6 @@
   "weaveffi-cli",
   "stitch-sync",
   "git-tpl",
-  "docling-rag"
+  "docling-rag",
+  "substrate-zainium"
 ]
