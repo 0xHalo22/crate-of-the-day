@@ -1,5 +1,4 @@
 [
-  "vnrit",
   "vexil-runtime",
   "net-lattice-model",
   "esp-hal",
@@ -28,5 +27,6 @@
   "stitch-sync",
   "git-tpl",
   "docling-rag",
-  "substrate-zainium"
+  "substrate-zainium",
+  "teravars"
 ]
