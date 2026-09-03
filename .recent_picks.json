@@ -1,5 +1,4 @@
 [
-  "vexil-runtime",
   "net-lattice-model",
   "esp-hal",
   "dag-ml-wasm",
@@ -28,5 +27,6 @@
   "git-tpl",
   "docling-rag",
   "substrate-zainium",
-  "teravars"
+  "teravars",
+  "snomed-classify"
 ]
