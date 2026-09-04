@@ -1,5 +1,4 @@
 [
-  "net-lattice-model",
   "esp-hal",
   "dag-ml-wasm",
   "agora-agentkit",
@@ -28,5 +27,6 @@
   "docling-rag",
   "substrate-zainium",
   "teravars",
-  "snomed-classify"
+  "snomed-classify",
+  "nemo-fabric-cli"
 ]
