@@ -1,5 +1,4 @@
 [
-  "dag-ml-wasm",
   "agora-agentkit",
   "librtmp2",
   "segment-buffer",
@@ -28,5 +27,6 @@
   "teravars",
   "snomed-classify",
   "nemo-fabric-cli",
-  "agent-block-core"
+  "agent-block-core",
+  "librarium"
 ]
