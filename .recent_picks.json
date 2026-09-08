@@ -1,5 +1,4 @@
 [
-  "librtmp2",
   "segment-buffer",
   "dualis",
   "horus-cli",
@@ -28,5 +27,6 @@
   "nemo-fabric-cli",
   "agent-block-core",
   "librarium",
-  "tui-slider"
+  "tui-slider",
+  "polyc-rpc-client"
 ]
