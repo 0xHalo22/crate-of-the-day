@@ -1,5 +1,4 @@
 [
-  "segment-buffer",
   "dualis",
   "horus-cli",
   "hydracache-macros",
@@ -28,5 +27,6 @@
   "agent-block-core",
   "librarium",
   "tui-slider",
-  "polyc-rpc-client"
+  "polyc-rpc-client",
+  "caixa-actions"
 ]
