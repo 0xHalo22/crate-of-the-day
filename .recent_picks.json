@@ -1,5 +1,4 @@
 [
-  "dualis",
   "horus-cli",
   "hydracache-macros",
   "vtcode-macros",
@@ -28,5 +27,6 @@
   "librarium",
   "tui-slider",
   "polyc-rpc-client",
-  "caixa-actions"
+  "caixa-actions",
+  "tatara-init"
 ]
