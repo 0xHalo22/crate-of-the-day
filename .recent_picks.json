@@ -1,5 +1,4 @@
 [
-  "horus-cli",
   "hydracache-macros",
   "vtcode-macros",
   "onepipeline",
@@ -28,5 +27,6 @@
   "tui-slider",
   "polyc-rpc-client",
   "caixa-actions",
-  "tatara-init"
+  "tatara-init",
+  "typedown-types"
 ]
