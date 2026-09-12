@@ -1,5 +1,4 @@
 [
-  "hydracache-macros",
   "vtcode-macros",
   "onepipeline",
   "tatara-nix",
@@ -28,5 +27,6 @@
   "polyc-rpc-client",
   "caixa-actions",
   "tatara-init",
-  "typedown-types"
+  "typedown-types",
+  "async-encrypted-stream"
 ]
