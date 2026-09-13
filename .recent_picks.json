@@ -1,5 +1,4 @@
 [
-  "vtcode-macros",
   "onepipeline",
   "tatara-nix",
   "blazediff-png",
@@ -28,5 +27,6 @@
   "caixa-actions",
   "tatara-init",
   "typedown-types",
-  "async-encrypted-stream"
+  "async-encrypted-stream",
+  "cuc-lib"
 ]
