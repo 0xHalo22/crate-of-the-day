@@ -1,5 +1,4 @@
 [
-  "onepipeline",
   "tatara-nix",
   "blazediff-png",
   "topcoat-router-grammar",
@@ -28,5 +27,6 @@
   "tatara-init",
   "typedown-types",
   "async-encrypted-stream",
-  "cuc-lib"
+  "cuc-lib",
+  "libid-contracts"
 ]
