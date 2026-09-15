@@ -1,5 +1,4 @@
 [
-  "tatara-nix",
   "blazediff-png",
   "topcoat-router-grammar",
   "teaql-runtime",
@@ -28,5 +27,6 @@
   "typedown-types",
   "async-encrypted-stream",
   "cuc-lib",
-  "libid-contracts"
+  "libid-contracts",
+  "rsenv"
 ]
