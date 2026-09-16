@@ -1,5 +1,4 @@
 [
-  "blazediff-png",
   "topcoat-router-grammar",
   "teaql-runtime",
   "axdevice_base",
@@ -28,5 +27,6 @@
   "async-encrypted-stream",
   "cuc-lib",
   "libid-contracts",
-  "rsenv"
+  "rsenv",
+  "systemprompt-provider-contracts"
 ]
