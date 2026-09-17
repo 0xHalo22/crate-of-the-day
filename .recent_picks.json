@@ -1,5 +1,4 @@
 [
-  "topcoat-router-grammar",
   "teaql-runtime",
   "axdevice_base",
   "noodles-vcf",
@@ -28,5 +27,6 @@
   "cuc-lib",
   "libid-contracts",
   "rsenv",
-  "systemprompt-provider-contracts"
+  "systemprompt-provider-contracts",
+  "otelite-core"
 ]
