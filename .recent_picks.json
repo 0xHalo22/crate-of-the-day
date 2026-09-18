@@ -1,5 +1,4 @@
 [
-  "teaql-runtime",
   "axdevice_base",
   "noodles-vcf",
   "erl_parse",
@@ -28,5 +27,6 @@
   "libid-contracts",
   "rsenv",
   "systemprompt-provider-contracts",
-  "otelite-core"
+  "otelite-core",
+  "tycho-client"
 ]
