@@ -1,5 +1,4 @@
 [
-  "axdevice_base",
   "noodles-vcf",
   "erl_parse",
   "faucet-sink-sftp",
@@ -28,5 +27,6 @@
   "rsenv",
   "systemprompt-provider-contracts",
   "otelite-core",
-  "tycho-client"
+  "tycho-client",
+  "volga-di"
 ]
