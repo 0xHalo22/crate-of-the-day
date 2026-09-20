@@ -1,5 +1,4 @@
 [
-  "noodles-vcf",
   "erl_parse",
   "faucet-sink-sftp",
   "velr-runtime-windows-x86_64",
@@ -28,5 +27,6 @@
   "systemprompt-provider-contracts",
   "otelite-core",
   "tycho-client",
-  "volga-di"
+  "volga-di",
+  "caldata"
 ]
