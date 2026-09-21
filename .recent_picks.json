@@ -1,5 +1,4 @@
 [
-  "erl_parse",
   "faucet-sink-sftp",
   "velr-runtime-windows-x86_64",
   "ox_content_ast",
@@ -28,5 +27,6 @@
   "otelite-core",
   "tycho-client",
   "volga-di",
-  "caldata"
+  "caldata",
+  "anitrack"
 ]
