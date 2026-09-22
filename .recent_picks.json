@@ -1,5 +1,4 @@
 [
-  "faucet-sink-sftp",
   "velr-runtime-windows-x86_64",
   "ox_content_ast",
   "janus_messages",
@@ -28,5 +27,6 @@
   "tycho-client",
   "volga-di",
   "caldata",
-  "anitrack"
+  "anitrack",
+  "onoal-fabric-resource"
 ]
