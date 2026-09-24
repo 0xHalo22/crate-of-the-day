@@ -1,5 +1,4 @@
 [
-  "ox_content_ast",
   "janus_messages",
   "stateset-a2a",
   "weaveffi-cli",
@@ -28,5 +27,6 @@
   "caldata",
   "anitrack",
   "onoal-fabric-resource",
-  "scv-cli"
+  "scv-cli",
+  "rdotaconstants"
 ]
