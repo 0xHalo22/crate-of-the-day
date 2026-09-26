@@ -1,5 +1,4 @@
 [
-  "stateset-a2a",
   "weaveffi-cli",
   "stitch-sync",
   "git-tpl",
@@ -28,5 +27,6 @@
   "onoal-fabric-resource",
   "scv-cli",
   "rdotaconstants",
-  "llmy-client"
+  "llmy-client",
+  "vtcode-ui"
 ]
