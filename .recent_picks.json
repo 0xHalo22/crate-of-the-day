@@ -1,5 +1,4 @@
 [
-  "weaveffi-cli",
   "stitch-sync",
   "git-tpl",
   "docling-rag",
@@ -28,5 +27,6 @@
   "scv-cli",
   "rdotaconstants",
   "llmy-client",
-  "vtcode-ui"
+  "vtcode-ui",
+  "cyberbrain"
 ]
