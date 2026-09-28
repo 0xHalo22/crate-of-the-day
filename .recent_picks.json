@@ -1,5 +1,4 @@
 [
-  "stitch-sync",
   "git-tpl",
   "docling-rag",
   "substrate-zainium",
@@ -28,5 +27,6 @@
   "rdotaconstants",
   "llmy-client",
   "vtcode-ui",
-  "cyberbrain"
+  "cyberbrain",
+  "boatramp-docker"
 ]
