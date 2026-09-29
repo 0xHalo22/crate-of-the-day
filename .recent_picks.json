@@ -1,5 +1,4 @@
 [
-  "git-tpl",
   "docling-rag",
   "substrate-zainium",
   "teravars",
@@ -28,5 +27,6 @@
   "llmy-client",
   "vtcode-ui",
   "cyberbrain",
-  "boatramp-docker"
+  "boatramp-docker",
+  "greentic-pack"
 ]
