@@ -1,5 +1,4 @@
 [
-  "docling-rag",
   "substrate-zainium",
   "teravars",
   "snomed-classify",
@@ -28,5 +27,6 @@
   "vtcode-ui",
   "cyberbrain",
   "boatramp-docker",
-  "greentic-pack"
+  "greentic-pack",
+  "fastpack"
 ]
