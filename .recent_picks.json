@@ -1,5 +1,4 @@
 [
-  "substrate-zainium",
   "teravars",
   "snomed-classify",
   "nemo-fabric-cli",
@@ -28,5 +27,6 @@
   "cyberbrain",
   "boatramp-docker",
   "greentic-pack",
-  "fastpack"
+  "fastpack",
+  "aws-sdk-elasticsearch"
 ]
