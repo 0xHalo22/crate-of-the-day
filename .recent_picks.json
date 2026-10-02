@@ -1,5 +1,4 @@
 [
-  "teravars",
   "snomed-classify",
   "nemo-fabric-cli",
   "agent-block-core",
@@ -28,5 +27,6 @@
   "boatramp-docker",
   "greentic-pack",
   "fastpack",
-  "aws-sdk-elasticsearch"
+  "aws-sdk-elasticsearch",
+  "iii-observability"
 ]
