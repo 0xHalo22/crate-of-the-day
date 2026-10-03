@@ -1,5 +1,4 @@
 [
-  "snomed-classify",
   "nemo-fabric-cli",
   "agent-block-core",
   "librarium",
@@ -28,5 +27,6 @@
   "greentic-pack",
   "fastpack",
   "aws-sdk-elasticsearch",
-  "iii-observability"
+  "iii-observability",
+  "polyxml"
 ]
