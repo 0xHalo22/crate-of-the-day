@@ -1,5 +1,4 @@
 [
-  "agent-block-core",
   "librarium",
   "tui-slider",
   "polyc-rpc-client",
@@ -28,5 +27,6 @@
   "aws-sdk-elasticsearch",
   "iii-observability",
   "polyxml",
-  "bevy_zeroverse_burn"
+  "bevy_zeroverse_burn",
+  "ruvio"
 ]
