@@ -1,5 +1,4 @@
 [
-  "librarium",
   "tui-slider",
   "polyc-rpc-client",
   "caixa-actions",
@@ -28,5 +27,6 @@
   "iii-observability",
   "polyxml",
   "bevy_zeroverse_burn",
-  "ruvio"
+  "ruvio",
+  "ardftsrc"
 ]
