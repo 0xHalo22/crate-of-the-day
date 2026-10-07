@@ -1,5 +1,4 @@
 [
-  "tui-slider",
   "polyc-rpc-client",
   "caixa-actions",
   "tatara-init",
@@ -28,5 +27,6 @@
   "polyxml",
   "bevy_zeroverse_burn",
   "ruvio",
-  "ardftsrc"
+  "ardftsrc",
+  "ruSPARSE"
 ]
