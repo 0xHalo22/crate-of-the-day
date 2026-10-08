@@ -1,5 +1,4 @@
 [
-  "polyc-rpc-client",
   "caixa-actions",
   "tatara-init",
   "typedown-types",
@@ -28,5 +27,6 @@
   "bevy_zeroverse_burn",
   "ruvio",
   "ardftsrc",
-  "ruSPARSE"
+  "ruSPARSE",
+  "trusty-memory"
 ]
