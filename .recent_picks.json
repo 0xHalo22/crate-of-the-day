@@ -1,5 +1,4 @@
 [
-  "caixa-actions",
   "tatara-init",
   "typedown-types",
   "async-encrypted-stream",
@@ -28,5 +27,6 @@
   "ruvio",
   "ardftsrc",
   "ruSPARSE",
-  "trusty-memory"
+  "trusty-memory",
+  "bsv-middleware-cloudflare"
 ]
