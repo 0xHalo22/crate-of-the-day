@@ -1,5 +1,4 @@
 [
-  "tatara-init",
   "typedown-types",
   "async-encrypted-stream",
   "cuc-lib",
@@ -28,5 +27,6 @@
   "ardftsrc",
   "ruSPARSE",
   "trusty-memory",
-  "bsv-middleware-cloudflare"
+  "bsv-middleware-cloudflare",
+  "turbojev-model"
 ]
