@@ -1,5 +1,4 @@
 [
-  "typedown-types",
   "async-encrypted-stream",
   "cuc-lib",
   "libid-contracts",
@@ -28,5 +27,6 @@
   "ruSPARSE",
   "trusty-memory",
   "bsv-middleware-cloudflare",
-  "turbojev-model"
+  "turbojev-model",
+  "ruda-tensor-router"
 ]

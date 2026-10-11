@@ -1,19 +1,19 @@
-# crate of the day — 2026-10-10
+# crate of the day — 2026-10-11
 
-## [`turbojev-model`](https://crates.io/crates/turbojev-model) `v0.33.0`
+## [`ruda-tensor-router`](https://crates.io/crates/ruda-tensor-router) `v0.21.52`
 
-> Model contracts and typed inference interfaces for TurboJev
+> Ruda multi-backend tensor routing.
 
 | | |
 |---|---|
-| **downloads** | 301 (301 in the last 90 days) |
-| **last updated** | 2026-10-10 |
-| **docs** | https://docs.rs/turbojev-model |
-| **repository** | https://github.com/DestroyerDarkNess/TurboJev |
+| **downloads** | 1,039 (1,039 in the last 90 days) |
+| **last updated** | 2026-10-11 |
+| **docs** | https://docs.rs/ruda-tensor-router |
+| **repository** | https://github.com/shuqi2077/RUDA/tree/main/ruda-tensor-router |
 
 ```toml
 [dependencies]
-turbojev-model = "0.33.0"
+ruda-tensor-router = "0.21.52"
 ```
 
-_picked at 2026-10-10T18:23:34+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-10-11T18:44:27+00:00 from the crates.io `recent-updates` feed_
