@@ -1,5 +1,4 @@
 [
-  "async-encrypted-stream",
   "cuc-lib",
   "libid-contracts",
   "rsenv",
@@ -28,5 +27,6 @@
   "trusty-memory",
   "bsv-middleware-cloudflare",
   "turbojev-model",
-  "ruda-tensor-router"
+  "ruda-tensor-router",
+  "bombay-zenoh"
 ]
