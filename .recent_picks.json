@@ -1,5 +1,4 @@
 [
-  "cuc-lib",
   "libid-contracts",
   "rsenv",
   "systemprompt-provider-contracts",
@@ -28,5 +27,6 @@
   "bsv-middleware-cloudflare",
   "turbojev-model",
   "ruda-tensor-router",
-  "bombay-zenoh"
+  "bombay-zenoh",
+  "backbone-promo"
 ]
