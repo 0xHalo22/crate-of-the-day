@@ -1,5 +1,4 @@
 [
-  "libid-contracts",
   "rsenv",
   "systemprompt-provider-contracts",
   "otelite-core",
@@ -28,5 +27,6 @@
   "turbojev-model",
   "ruda-tensor-router",
   "bombay-zenoh",
-  "backbone-promo"
+  "backbone-promo",
+  "energyml-eml-2-3"
 ]

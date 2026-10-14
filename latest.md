@@ -1,19 +1,19 @@
-# crate of the day — 2026-10-13
+# crate of the day — 2026-10-14
 
-## [`backbone-promo`](https://crates.io/crates/backbone-promo) `v0.9.0`
+## [`energyml-eml-2-3`](https://crates.io/crates/energyml-eml-2-3) `v0.2.0-alpha.1`
 
-> Advertisements, promo campaigns, banners (extracted from bersihir)
+> Rust bindings for eml 2.3, generated from the Energistics XSD schemas.
 
 | | |
 |---|---|
-| **downloads** | 115 (115 in the last 90 days) |
-| **last updated** | 2026-10-13 |
-| **docs** | https://docs.rs/backbone-promo |
-| **repository** | https://github.com/faridlab/backbone-promo |
+| **downloads** | 134 (134 in the last 90 days) |
+| **last updated** | 2026-10-14 |
+| **docs** | https://docs.rs/energyml-eml-2-3 |
+| **repository** | https://github.com/geosiris-technologies/energyml-rust |
 
 ```toml
 [dependencies]
-backbone-promo = "0.9.0"
+energyml-eml-2-3 = "0.2.0-alpha.1"
 ```
 
-_picked at 2026-10-13T20:09:06+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-10-14T18:27:44+00:00 from the crates.io `recent-updates` feed_
