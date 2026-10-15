@@ -1,19 +1,19 @@
-# crate of the day — 2026-10-14
+# crate of the day — 2026-10-15
 
-## [`energyml-eml-2-3`](https://crates.io/crates/energyml-eml-2-3) `v0.2.0-alpha.1`
+## [`xsd-schema`](https://crates.io/crates/xsd-schema) `v0.2.3`
 
-> Rust bindings for eml 2.3, generated from the Energistics XSD schemas.
+> XML Schema (XSD 1.0/1.1) validator with PSVI and a built-in XPath 2.0 engine
 
 | | |
 |---|---|
-| **downloads** | 134 (134 in the last 90 days) |
-| **last updated** | 2026-10-14 |
-| **docs** | https://docs.rs/energyml-eml-2-3 |
-| **repository** | https://github.com/geosiris-technologies/energyml-rust |
+| **downloads** | 1,355 (1,294 in the last 90 days) |
+| **last updated** | 2026-10-15 |
+| **docs** | https://docs.rs/xsd-schema |
+| **repository** | https://github.com/semyonc/xsd-schema |
 
 ```toml
 [dependencies]
-energyml-eml-2-3 = "0.2.0-alpha.1"
+xsd-schema = "0.2.3"
 ```
 
-_picked at 2026-10-14T18:27:44+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-10-15T18:09:45+00:00 from the crates.io `recent-updates` feed_
