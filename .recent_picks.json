@@ -1,5 +1,4 @@
 [
-  "systemprompt-provider-contracts",
   "otelite-core",
   "tycho-client",
   "volga-di",
@@ -28,5 +27,6 @@
   "bombay-zenoh",
   "backbone-promo",
   "energyml-eml-2-3",
-  "xsd-schema"
+  "xsd-schema",
+  "termo_core"
 ]
