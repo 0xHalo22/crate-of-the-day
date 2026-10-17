@@ -1,5 +1,4 @@
 [
-  "otelite-core",
   "tycho-client",
   "volga-di",
   "caldata",
@@ -28,5 +27,6 @@
   "backbone-promo",
   "energyml-eml-2-3",
   "xsd-schema",
-  "termo_core"
+  "termo_core",
+  "rsconstruct"
 ]
