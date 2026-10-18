@@ -1,5 +1,4 @@
 [
-  "tycho-client",
   "volga-di",
   "caldata",
   "anitrack",
@@ -28,5 +27,6 @@
   "energyml-eml-2-3",
   "xsd-schema",
   "termo_core",
-  "rsconstruct"
+  "rsconstruct",
+  "mitsuami"
 ]

@@ -1,19 +1,20 @@
-# crate of the day — 2026-10-17
+# crate of the day — 2026-10-18
 
-## [`rsconstruct`](https://crates.io/crates/rsconstruct) `v0.9.132`
+## [`mitsuami`](https://crates.io/crates/mitsuami) `v1.3.4`
 
-> Rust based fast build system
+> Native, declarative, cross-platform UI for Rust
 
 | | |
 |---|---|
-| **downloads** | 2,736 (1,394 in the last 90 days) |
-| **last updated** | 2026-10-17 |
-| **docs** | https://docs.rs/rsconstruct |
-| **repository** | https://github.com/veltzer/rsconstruct |
+| **downloads** | 105 (105 in the last 90 days) |
+| **last updated** | 2026-10-18 |
+| **docs** | https://docs.rs/mitsuami |
+| **repository** | https://github.com/Roboport-Tecnologia/mitsuami |
+| **homepage** | https://mitsuami.roboport.com.br |
 
 ```toml
 [dependencies]
-rsconstruct = "0.9.132"
+mitsuami = "1.3.4"
 ```
 
-_picked at 2026-10-17T16:57:00+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-10-18T17:12:31+00:00 from the crates.io `recent-updates` feed_
