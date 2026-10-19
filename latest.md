@@ -1,20 +1,19 @@
-# crate of the day — 2026-10-18
+# crate of the day — 2026-10-19
 
-## [`mitsuami`](https://crates.io/crates/mitsuami) `v1.3.4`
+## [`bsv-middleware-core`](https://crates.io/crates/bsv-middleware-core) `v0.4.0`
 
-> Native, declarative, cross-platform UI for Rust
+> Runtime-free BSV BRC-103/104 authentication and BRC-29 payment verification: the pure rules behind bsv-middleware-cloudflare
 
 | | |
 |---|---|
-| **downloads** | 105 (105 in the last 90 days) |
-| **last updated** | 2026-10-18 |
-| **docs** | https://docs.rs/mitsuami |
-| **repository** | https://github.com/Roboport-Tecnologia/mitsuami |
-| **homepage** | https://mitsuami.roboport.com.br |
+| **downloads** | 444 (444 in the last 90 days) |
+| **last updated** | 2026-10-19 |
+| **docs** | https://docs.rs/bsv-middleware-core |
+| **repository** | https://github.com/Calhooon/bsv-middleware-cloudflare |
 
 ```toml
 [dependencies]
-mitsuami = "1.3.4"
+bsv-middleware-core = "0.4.0"
 ```
 
-_picked at 2026-10-18T17:12:31+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-10-19T19:45:04+00:00 from the crates.io `recent-updates` feed_

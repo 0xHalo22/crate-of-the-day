@@ -1,5 +1,4 @@
 [
-  "volga-di",
   "caldata",
   "anitrack",
   "onoal-fabric-resource",
@@ -28,5 +27,6 @@
   "xsd-schema",
   "termo_core",
   "rsconstruct",
-  "mitsuami"
+  "mitsuami",
+  "bsv-middleware-core"
 ]
