@@ -1,5 +1,4 @@
 [
-  "caldata",
   "anitrack",
   "onoal-fabric-resource",
   "scv-cli",
@@ -28,5 +27,6 @@
   "termo_core",
   "rsconstruct",
   "mitsuami",
-  "bsv-middleware-core"
+  "bsv-middleware-core",
+  "re_data_source"
 ]

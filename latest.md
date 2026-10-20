@@ -1,19 +1,20 @@
-# crate of the day — 2026-10-19
+# crate of the day — 2026-10-20
 
-## [`bsv-middleware-core`](https://crates.io/crates/bsv-middleware-core) `v0.4.0`
+## [`re_data_source`](https://crates.io/crates/re_data_source) `v0.40.0-rc.2`
 
-> Runtime-free BSV BRC-103/104 authentication and BRC-29 payment verification: the pure rules behind bsv-middleware-cloudflare
+> Handles loading of Rerun data
 
 | | |
 |---|---|
-| **downloads** | 444 (444 in the last 90 days) |
-| **last updated** | 2026-10-19 |
-| **docs** | https://docs.rs/bsv-middleware-core |
-| **repository** | https://github.com/Calhooon/bsv-middleware-cloudflare |
+| **downloads** | 1,268,770 (296,453 in the last 90 days) |
+| **last updated** | 2026-10-20 |
+| **docs** | https://docs.rs/re_data_source |
+| **repository** | https://github.com/rerun-io/rerun |
+| **homepage** | https://rerun.io |
 
 ```toml
 [dependencies]
-bsv-middleware-core = "0.4.0"
+re_data_source = "0.40.0-rc.2"
 ```
 
-_picked at 2026-10-19T19:45:04+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-10-20T18:24:55+00:00 from the crates.io `recent-updates` feed_
