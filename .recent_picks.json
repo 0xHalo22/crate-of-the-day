@@ -1,5 +1,4 @@
 [
-  "anitrack",
   "onoal-fabric-resource",
   "scv-cli",
   "rdotaconstants",
@@ -28,5 +27,6 @@
   "rsconstruct",
   "mitsuami",
   "bsv-middleware-core",
-  "re_data_source"
+  "re_data_source",
+  "sarif-viewer"
 ]

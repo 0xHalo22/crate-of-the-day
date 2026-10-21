@@ -1,20 +1,19 @@
-# crate of the day — 2026-10-20
+# crate of the day — 2026-10-21
 
-## [`re_data_source`](https://crates.io/crates/re_data_source) `v0.40.0-rc.2`
+## [`sarif-viewer`](https://crates.io/crates/sarif-viewer) `v1.1.13`
 
-> Handles loading of Rerun data
+> Offline viewer, validator and multi-format exporter for SARIF 2.1.0 and SARIF 2.2 (draft) — single binary, schema-validated import/export
 
 | | |
 |---|---|
-| **downloads** | 1,268,770 (296,453 in the last 90 days) |
-| **last updated** | 2026-10-20 |
-| **docs** | https://docs.rs/re_data_source |
-| **repository** | https://github.com/rerun-io/rerun |
-| **homepage** | https://rerun.io |
+| **downloads** | 237 (45 in the last 90 days) |
+| **last updated** | 2026-10-21 |
+| **docs** | https://docs.rs/sarif-viewer |
+| **repository** | https://gitlab.com/vPierre/ndaal_public_sarif_viewer |
 
 ```toml
 [dependencies]
-re_data_source = "0.40.0-rc.2"
+sarif-viewer = "1.1.13"
 ```
 
-_picked at 2026-10-20T18:24:55+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-10-21T18:31:02+00:00 from the crates.io `recent-updates` feed_
