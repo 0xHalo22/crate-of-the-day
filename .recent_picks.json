@@ -1,5 +1,4 @@
 [
-  "onoal-fabric-resource",
   "scv-cli",
   "rdotaconstants",
   "llmy-client",
@@ -28,5 +27,6 @@
   "mitsuami",
   "bsv-middleware-core",
   "re_data_source",
-  "sarif-viewer"
+  "sarif-viewer",
+  "linkrpc-macros"
 ]
