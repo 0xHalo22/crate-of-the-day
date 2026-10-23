@@ -1,5 +1,4 @@
 [
-  "scv-cli",
   "rdotaconstants",
   "llmy-client",
   "vtcode-ui",
@@ -28,5 +27,6 @@
   "bsv-middleware-core",
   "re_data_source",
   "sarif-viewer",
-  "linkrpc-macros"
+  "linkrpc-macros",
+  "bunsen"
 ]
