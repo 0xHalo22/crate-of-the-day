@@ -1,5 +1,4 @@
 [
-  "rdotaconstants",
   "llmy-client",
   "vtcode-ui",
   "cyberbrain",
@@ -28,5 +27,6 @@
   "re_data_source",
   "sarif-viewer",
   "linkrpc-macros",
-  "bunsen"
+  "bunsen",
+  "felix-wire"
 ]
