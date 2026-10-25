@@ -1,5 +1,4 @@
 [
-  "llmy-client",
   "vtcode-ui",
   "cyberbrain",
   "boatramp-docker",
@@ -28,5 +27,6 @@
   "sarif-viewer",
   "linkrpc-macros",
   "bunsen",
-  "felix-wire"
+  "felix-wire",
+  "baracuda"
 ]

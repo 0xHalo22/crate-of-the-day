@@ -1,19 +1,19 @@
-# crate of the day — 2026-10-24
+# crate of the day — 2026-10-25
 
-## [`felix-wire`](https://crates.io/crates/felix-wire) `v0.6.1`
+## [`baracuda`](https://crates.io/crates/baracuda) `v0.1.0-alpha.25`
 
-> Wire protocol, frame codec, and test vectors for the Felix messaging system
+> Idiomatic Rust wrappers for the NVIDIA CUDA stack (Driver API, Runtime API, NVRTC, cuBLAS, cuDNN, NCCL, NVML, ...). Umbrella crate.
 
 | | |
 |---|---|
-| **downloads** | 1,498 (1,498 in the last 90 days) |
-| **last updated** | 2026-10-24 |
-| **docs** | https://docs.rs/felix-wire |
-| **repository** | https://github.com/GetFelix/felix |
+| **downloads** | 1,493 (501 in the last 90 days) |
+| **last updated** | 2026-10-25 |
+| **docs** | https://docs.rs/baracuda |
+| **repository** | https://github.com/ciresnave/baracuda |
 
 ```toml
 [dependencies]
-felix-wire = "0.6.1"
+baracuda = "0.1.0-alpha.25"
 ```
 
-_picked at 2026-10-24T17:18:29+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-10-25T17:32:19+00:00 from the crates.io `recent-updates` feed_
