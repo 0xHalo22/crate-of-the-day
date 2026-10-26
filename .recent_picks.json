@@ -1,5 +1,4 @@
 [
-  "vtcode-ui",
   "cyberbrain",
   "boatramp-docker",
   "greentic-pack",
@@ -28,5 +27,6 @@
   "linkrpc-macros",
   "bunsen",
   "felix-wire",
-  "baracuda"
+  "baracuda",
+  "haste-macro-loads"
 ]
