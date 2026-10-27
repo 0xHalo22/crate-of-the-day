@@ -1,5 +1,4 @@
 [
-  "cyberbrain",
   "boatramp-docker",
   "greentic-pack",
   "fastpack",
@@ -28,5 +27,6 @@
   "bunsen",
   "felix-wire",
   "baracuda",
-  "haste-macro-loads"
+  "haste-macro-loads",
+  "bevy_embedded_assets"
 ]

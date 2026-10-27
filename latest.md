@@ -1,19 +1,19 @@
-# crate of the day — 2026-10-26
+# crate of the day — 2026-10-27
 
-## [`haste-macro-loads`](https://crates.io/crates/haste-macro-loads) `v0.127.3`
+## [`bevy_embedded_assets`](https://crates.io/crates/bevy_embedded_assets) `v0.17.0`
 
-> Macro loads for Haste Health.
+> A Bevy plugin to embed assets in your game
 
 | | |
 |---|---|
-| **downloads** | 1,633 (643 in the last 90 days) |
-| **last updated** | 2026-10-26 |
-| **docs** | https://docs.rs/haste-macro-loads |
-| **homepage** | https://haste.health |
+| **downloads** | 232,457 (11,179 in the last 90 days) |
+| **last updated** | 2026-10-27 |
+| **docs** | https://docs.rs/bevy_embedded_assets |
+| **repository** | https://github.com/vleue/bevy_embedded_assets |
 
 ```toml
 [dependencies]
-haste-macro-loads = "0.127.3"
+bevy_embedded_assets = "0.17.0"
 ```
 
-_picked at 2026-10-26T19:49:19+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-10-27T19:18:45+00:00 from the crates.io `recent-updates` feed_
