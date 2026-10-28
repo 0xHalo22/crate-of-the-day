@@ -1,5 +1,4 @@
 [
-  "boatramp-docker",
   "greentic-pack",
   "fastpack",
   "aws-sdk-elasticsearch",
@@ -28,5 +27,6 @@
   "felix-wire",
   "baracuda",
   "haste-macro-loads",
-  "bevy_embedded_assets"
+  "bevy_embedded_assets",
+  "podtrack"
 ]
