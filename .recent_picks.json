@@ -1,5 +1,4 @@
 [
-  "greentic-pack",
   "fastpack",
   "aws-sdk-elasticsearch",
   "iii-observability",
@@ -28,5 +27,6 @@
   "baracuda",
   "haste-macro-loads",
   "bevy_embedded_assets",
-  "podtrack"
+  "podtrack",
+  "fnox"
 ]
