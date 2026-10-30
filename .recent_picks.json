@@ -1,5 +1,4 @@
 [
-  "fastpack",
   "aws-sdk-elasticsearch",
   "iii-observability",
   "polyxml",
@@ -28,5 +27,6 @@
   "haste-macro-loads",
   "bevy_embedded_assets",
   "podtrack",
-  "fnox"
+  "fnox",
+  "aws-sdk-codedeploy"
 ]
