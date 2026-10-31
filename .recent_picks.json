@@ -1,5 +1,4 @@
 [
-  "aws-sdk-elasticsearch",
   "iii-observability",
   "polyxml",
   "bevy_zeroverse_burn",
@@ -28,5 +27,6 @@
   "bevy_embedded_assets",
   "podtrack",
   "fnox",
-  "aws-sdk-codedeploy"
+  "aws-sdk-codedeploy",
+  "ic-storage"
 ]
