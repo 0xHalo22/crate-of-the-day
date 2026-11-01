@@ -1,5 +1,4 @@
 [
-  "iii-observability",
   "polyxml",
   "bevy_zeroverse_burn",
   "ruvio",
@@ -28,5 +27,6 @@
   "podtrack",
   "fnox",
   "aws-sdk-codedeploy",
-  "ic-storage"
+  "ic-storage",
+  "ic-logging-stable"
 ]
