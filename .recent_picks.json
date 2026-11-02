@@ -1,5 +1,4 @@
 [
-  "polyxml",
   "bevy_zeroverse_burn",
   "ruvio",
   "ardftsrc",
@@ -28,5 +27,6 @@
   "fnox",
   "aws-sdk-codedeploy",
   "ic-storage",
-  "ic-logging-stable"
+  "ic-logging-stable",
+  "rship-entities-outputs"
 ]

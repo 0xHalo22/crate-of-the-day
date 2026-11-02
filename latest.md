@@ -1,19 +1,18 @@
-# crate of the day — 2026-11-01
+# crate of the day — 2026-11-02
 
-## [`ic-logging-stable`](https://crates.io/crates/ic-logging-stable) `v0.62.1`
+## [`rship-entities-outputs`](https://crates.io/crates/rship-entities-outputs) `v4.0.0-canary.148`
 
-> Optional governed stable checkpoints for IC Logging
+> Render output, screen placement, and output mesh entities for rship
 
 | | |
 |---|---|
-| **downloads** | 192 (192 in the last 90 days) |
-| **last updated** | 2026-11-01 |
-| **docs** | https://docs.rs/ic-logging-stable |
-| **repository** | https://github.com/dragginzgame/ic-persistence |
+| **downloads** | 2,535 (2,535 in the last 90 days) |
+| **last updated** | 2026-11-02 |
+| **docs** | https://docs.rs/rship-entities-outputs |
 
 ```toml
 [dependencies]
-ic-logging-stable = "0.62.1"
+rship-entities-outputs = "4.0.0-canary.148"
 ```
 
-_picked at 2026-11-01T18:49:52+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-02T22:40:26+00:00 from the crates.io `recent-updates` feed_
