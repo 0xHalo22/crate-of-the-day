@@ -1,18 +1,19 @@
-# crate of the day — 2026-11-02
+# crate of the day — 2026-11-03
 
-## [`rship-entities-outputs`](https://crates.io/crates/rship-entities-outputs) `v4.0.0-canary.148`
+## [`ikigai-jsonld`](https://crates.io/crates/ikigai-jsonld) `v0.4.0`
 
-> Render output, screen placement, and output mesh entities for rship
+> JSON-LD operators for ikigai — urn:jsonld:expand / :compact / :flatten as resources, plus :prune (the trust-boundary egress filter), on the json-ld crate with a static (no-network) context loader. Standalone, lazy-loadable as a WASM module.
 
 | | |
 |---|---|
-| **downloads** | 2,535 (2,535 in the last 90 days) |
-| **last updated** | 2026-11-02 |
-| **docs** | https://docs.rs/rship-entities-outputs |
+| **downloads** | 2,649 (2,540 in the last 90 days) |
+| **last updated** | 2026-11-03 |
+| **docs** | https://docs.rs/ikigai-jsonld |
+| **repository** | https://github.com/ikigai-rs/ikigai-jsonld |
 
 ```toml
 [dependencies]
-rship-entities-outputs = "4.0.0-canary.148"
+ikigai-jsonld = "0.4.0"
 ```
 
-_picked at 2026-11-02T22:40:26+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-03T20:27:32+00:00 from the crates.io `recent-updates` feed_

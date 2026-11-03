@@ -1,5 +1,4 @@
 [
-  "bevy_zeroverse_burn",
   "ruvio",
   "ardftsrc",
   "ruSPARSE",
@@ -28,5 +27,6 @@
   "aws-sdk-codedeploy",
   "ic-storage",
   "ic-logging-stable",
-  "rship-entities-outputs"
+  "rship-entities-outputs",
+  "ikigai-jsonld"
 ]
