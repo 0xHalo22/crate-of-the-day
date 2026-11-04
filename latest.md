@@ -1,19 +1,19 @@
-# crate of the day — 2026-11-03
+# crate of the day — 2026-11-04
 
-## [`ikigai-jsonld`](https://crates.io/crates/ikigai-jsonld) `v0.4.0`
+## [`a7n-ipc`](https://crates.io/crates/a7n-ipc) `v0.15.4`
 
-> JSON-LD operators for ikigai — urn:jsonld:expand / :compact / :flatten as resources, plus :prune (the trust-boundary egress filter), on the json-ld crate with a static (no-network) context loader. Standalone, lazy-loadable as a WASM module.
+> Local daemon API for the Apeirogon software KVM
 
 | | |
 |---|---|
-| **downloads** | 2,649 (2,540 in the last 90 days) |
-| **last updated** | 2026-11-03 |
-| **docs** | https://docs.rs/ikigai-jsonld |
-| **repository** | https://github.com/ikigai-rs/ikigai-jsonld |
+| **downloads** | 190 (190 in the last 90 days) |
+| **last updated** | 2026-11-04 |
+| **docs** | https://docs.rs/a7n-ipc |
+| **repository** | https://github.com/PuppetMaster2k/apeirogon |
 
 ```toml
 [dependencies]
-ikigai-jsonld = "0.4.0"
+a7n-ipc = "0.15.4"
 ```
 
-_picked at 2026-11-03T20:27:32+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-04T20:43:13+00:00 from the crates.io `recent-updates` feed_

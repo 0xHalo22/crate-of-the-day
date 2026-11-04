@@ -1,5 +1,4 @@
 [
-  "ruvio",
   "ardftsrc",
   "ruSPARSE",
   "trusty-memory",
@@ -28,5 +27,6 @@
   "ic-storage",
   "ic-logging-stable",
   "rship-entities-outputs",
-  "ikigai-jsonld"
+  "ikigai-jsonld",
+  "a7n-ipc"
 ]
