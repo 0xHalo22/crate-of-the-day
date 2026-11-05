@@ -1,5 +1,4 @@
 [
-  "ardftsrc",
   "ruSPARSE",
   "trusty-memory",
   "bsv-middleware-cloudflare",
@@ -28,5 +27,6 @@
   "ic-logging-stable",
   "rship-entities-outputs",
   "ikigai-jsonld",
-  "a7n-ipc"
+  "a7n-ipc",
+  "kui-core"
 ]
