@@ -1,5 +1,4 @@
 [
-  "ruSPARSE",
   "trusty-memory",
   "bsv-middleware-cloudflare",
   "turbojev-model",
@@ -28,5 +27,6 @@
   "rship-entities-outputs",
   "ikigai-jsonld",
   "a7n-ipc",
-  "kui-core"
+  "kui-core",
+  "bamboo-storage"
 ]
