@@ -1,18 +1,20 @@
-# crate of the day — 2026-11-06
+# crate of the day — 2026-11-07
 
-## [`bamboo-storage`](https://crates.io/crates/bamboo-storage) `v2026.11.11`
+## [`cadaclysm-sdk`](https://crates.io/crates/cadaclysm-sdk) `v0.13.1`
 
-> Session storage backends for the Bamboo agent framework
+> Read CAD files (STEP, IGES, IFC, Rhino 3dm, ACIS SAT, OCCT BREP, OpenSCAD) and build exact B-rep solids, over the prebuilt cadaclysm libraries loaded at run time.
 
 | | |
 |---|---|
-| **downloads** | 5,275 (2,974 in the last 90 days) |
-| **last updated** | 2026-11-06 |
-| **docs** | https://docs.rs/bamboo-storage |
+| **downloads** | 214 (214 in the last 90 days) |
+| **last updated** | 2026-11-07 |
+| **docs** | https://cadaclysm.blitter.studio/docs/rust.html |
+| **repository** | https://github.com/rdeioris/cadaclysm-sdk |
+| **homepage** | https://cadaclysm.blitter.studio |
 
 ```toml
 [dependencies]
-bamboo-storage = "2026.11.11"
+cadaclysm-sdk = "0.13.1"
 ```
 
-_picked at 2026-11-06T20:19:10+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-07T18:36:56+00:00 from the crates.io `recent-updates` feed_

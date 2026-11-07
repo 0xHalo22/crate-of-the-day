@@ -1,5 +1,4 @@
 [
-  "trusty-memory",
   "bsv-middleware-cloudflare",
   "turbojev-model",
   "ruda-tensor-router",
@@ -28,5 +27,6 @@
   "ikigai-jsonld",
   "a7n-ipc",
   "kui-core",
-  "bamboo-storage"
+  "bamboo-storage",
+  "cadaclysm-sdk"
 ]
