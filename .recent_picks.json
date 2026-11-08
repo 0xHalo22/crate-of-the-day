@@ -1,5 +1,4 @@
 [
-  "bsv-middleware-cloudflare",
   "turbojev-model",
   "ruda-tensor-router",
   "bombay-zenoh",
@@ -28,5 +27,6 @@
   "a7n-ipc",
   "kui-core",
   "bamboo-storage",
-  "cadaclysm-sdk"
+  "cadaclysm-sdk",
+  "laputa-hi-lite"
 ]

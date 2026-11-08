@@ -1,20 +1,19 @@
-# crate of the day — 2026-11-07
+# crate of the day — 2026-11-08
 
-## [`cadaclysm-sdk`](https://crates.io/crates/cadaclysm-sdk) `v0.13.1`
+## [`laputa-hi-lite`](https://crates.io/crates/laputa-hi-lite) `v0.4.0`
 
-> Read CAD files (STEP, IGES, IFC, Rhino 3dm, ACIS SAT, OCCT BREP, OpenSCAD) and build exact B-rep solids, over the prebuilt cadaclysm libraries loaded at run time.
+> Dependency-free line-oriented syntax highlighting
 
 | | |
 |---|---|
-| **downloads** | 214 (214 in the last 90 days) |
-| **last updated** | 2026-11-07 |
-| **docs** | https://cadaclysm.blitter.studio/docs/rust.html |
-| **repository** | https://github.com/rdeioris/cadaclysm-sdk |
-| **homepage** | https://cadaclysm.blitter.studio |
+| **downloads** | 192 (192 in the last 90 days) |
+| **last updated** | 2026-11-08 |
+| **docs** | https://docs.rs/laputa-hi-lite |
+| **repository** | https://github.com/laputa-systems/hi-lite |
 
 ```toml
 [dependencies]
-cadaclysm-sdk = "0.13.1"
+laputa-hi-lite = "0.4.0"
 ```
 
-_picked at 2026-11-07T18:36:56+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-08T18:44:20+00:00 from the crates.io `recent-updates` feed_
