@@ -1,5 +1,4 @@
 [
-  "turbojev-model",
   "ruda-tensor-router",
   "bombay-zenoh",
   "backbone-promo",
@@ -28,5 +27,6 @@
   "kui-core",
   "bamboo-storage",
   "cadaclysm-sdk",
-  "laputa-hi-lite"
+  "laputa-hi-lite",
+  "edi-energy"
 ]
