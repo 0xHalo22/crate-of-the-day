@@ -1,5 +1,4 @@
 [
-  "ruda-tensor-router",
   "bombay-zenoh",
   "backbone-promo",
   "energyml-eml-2-3",
@@ -28,5 +27,6 @@
   "bamboo-storage",
   "cadaclysm-sdk",
   "laputa-hi-lite",
-  "edi-energy"
+  "edi-energy",
+  "graphile_worker_postgres_tls"
 ]
