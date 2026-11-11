@@ -1,19 +1,20 @@
-# crate of the day — 2026-11-10
+# crate of the day — 2026-11-11
 
-## [`graphile_worker_postgres_tls`](https://crates.io/crates/graphile_worker_postgres_tls) `v0.1.2`
+## [`rerun-cli`](https://crates.io/crates/rerun-cli) `v0.43.1`
 
-> Feature-selected PostgreSQL TLS connectors for graphile_worker
+> The Rerun command-line tool: the `rerun` binary, including the native Viewer
 
 | | |
 |---|---|
-| **downloads** | 6,814 (6,814 in the last 90 days) |
-| **last updated** | 2026-11-10 |
-| **docs** | https://docs.rs/graphile_worker_postgres_tls |
-| **repository** | https://github.com/leo91000/graphile_worker_rs |
+| **downloads** | 196,951 (8,577 in the last 90 days) |
+| **last updated** | 2026-11-11 |
+| **docs** | https://docs.rs/rerun-cli |
+| **repository** | https://github.com/rerun-io/rerun |
+| **homepage** | https://rerun.io |
 
 ```toml
 [dependencies]
-graphile_worker_postgres_tls = "0.1.2"
+rerun-cli = "0.43.1"
 ```
 
-_picked at 2026-11-10T20:44:58+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-11T21:11:21+00:00 from the crates.io `recent-updates` feed_
