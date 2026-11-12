@@ -1,5 +1,4 @@
 [
-  "backbone-promo",
   "energyml-eml-2-3",
   "xsd-schema",
   "termo_core",
@@ -28,5 +27,6 @@
   "laputa-hi-lite",
   "edi-energy",
   "graphile_worker_postgres_tls",
-  "rerun-cli"
+  "rerun-cli",
+  "process-fun"
 ]

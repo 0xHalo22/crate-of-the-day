@@ -1,20 +1,19 @@
-# crate of the day — 2026-11-11
+# crate of the day — 2026-11-12
 
-## [`rerun-cli`](https://crates.io/crates/rerun-cli) `v0.43.1`
+## [`process-fun`](https://crates.io/crates/process-fun) `v0.1.3`
 
-> The Rerun command-line tool: the `rerun` binary, including the native Viewer
+> A Rust library for process management and inter-process communication
 
 | | |
 |---|---|
-| **downloads** | 196,951 (8,577 in the last 90 days) |
-| **last updated** | 2026-11-11 |
-| **docs** | https://docs.rs/rerun-cli |
-| **repository** | https://github.com/rerun-io/rerun |
-| **homepage** | https://rerun.io |
+| **downloads** | 5,802 (1,916 in the last 90 days) |
+| **last updated** | 2026-11-12 |
+| **docs** | https://docs.rs/process-fun |
+| **repository** | https://github.com/eytans/process-fun-rs |
 
 ```toml
 [dependencies]
-rerun-cli = "0.43.1"
+process-fun = "0.1.3"
 ```
 
-_picked at 2026-11-11T21:11:21+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-12T21:23:16+00:00 from the crates.io `recent-updates` feed_
