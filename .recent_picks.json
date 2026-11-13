@@ -1,5 +1,4 @@
 [
-  "energyml-eml-2-3",
   "xsd-schema",
   "termo_core",
   "rsconstruct",
@@ -28,5 +27,6 @@
   "edi-energy",
   "graphile_worker_postgres_tls",
   "rerun-cli",
-  "process-fun"
+  "process-fun",
+  "zlink-idl"
 ]

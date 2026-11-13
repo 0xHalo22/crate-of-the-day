@@ -1,19 +1,19 @@
-# crate of the day — 2026-11-12
+# crate of the day — 2026-11-13
 
-## [`process-fun`](https://crates.io/crates/process-fun) `v0.1.3`
+## [`zlink-idl`](https://crates.io/crates/zlink-idl) `v0.9.0`
 
-> A Rust library for process management and inter-process communication
+> Varlink IDL types and parser
 
 | | |
 |---|---|
-| **downloads** | 5,802 (1,916 in the last 90 days) |
-| **last updated** | 2026-11-12 |
-| **docs** | https://docs.rs/process-fun |
-| **repository** | https://github.com/eytans/process-fun-rs |
+| **downloads** | 164,900 (154,836 in the last 90 days) |
+| **last updated** | 2026-11-13 |
+| **docs** | https://docs.rs/zlink-idl |
+| **repository** | https://github.com/z-galaxy/zlink/ |
 
 ```toml
 [dependencies]
-process-fun = "0.1.3"
+zlink-idl = "0.9.0"
 ```
 
-_picked at 2026-11-12T21:23:16+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-13T20:49:07+00:00 from the crates.io `recent-updates` feed_
