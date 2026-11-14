@@ -1,19 +1,20 @@
-# crate of the day — 2026-11-13
+# crate of the day — 2026-11-14
 
-## [`zlink-idl`](https://crates.io/crates/zlink-idl) `v0.9.0`
+## [`webfont-generator`](https://crates.io/crates/webfont-generator) `v0.12.0`
 
-> Varlink IDL types and parser
+> Generate webfonts (SVG, TTF, EOT, WOFF, WOFF2) from SVG icons
 
 | | |
 |---|---|
-| **downloads** | 164,900 (154,836 in the last 90 days) |
-| **last updated** | 2026-11-13 |
-| **docs** | https://docs.rs/zlink-idl |
-| **repository** | https://github.com/z-galaxy/zlink/ |
+| **downloads** | 285 (89 in the last 90 days) |
+| **last updated** | 2026-11-14 |
+| **docs** | https://docs.rs/webfont-generator |
+| **repository** | https://github.com/atlowChemi/vite-svg-2-webfont |
+| **homepage** | https://fonte.atlow.dev/rust/ |
 
 ```toml
 [dependencies]
-zlink-idl = "0.9.0"
+webfont-generator = "0.12.0"
 ```
 
-_picked at 2026-11-13T20:49:07+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-14T18:59:44+00:00 from the crates.io `recent-updates` feed_

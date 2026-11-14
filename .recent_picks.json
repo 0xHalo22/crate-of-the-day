@@ -1,5 +1,4 @@
 [
-  "xsd-schema",
   "termo_core",
   "rsconstruct",
   "mitsuami",
@@ -28,5 +27,6 @@
   "graphile_worker_postgres_tls",
   "rerun-cli",
   "process-fun",
-  "zlink-idl"
+  "zlink-idl",
+  "webfont-generator"
 ]
