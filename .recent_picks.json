@@ -1,5 +1,4 @@
 [
-  "termo_core",
   "rsconstruct",
   "mitsuami",
   "bsv-middleware-core",
@@ -28,5 +27,6 @@
   "rerun-cli",
   "process-fun",
   "zlink-idl",
-  "webfont-generator"
+  "webfont-generator",
+  "saorsa-gossip-pubsub"
 ]

@@ -1,20 +1,19 @@
-# crate of the day — 2026-11-14
+# crate of the day — 2026-11-15
 
-## [`webfont-generator`](https://crates.io/crates/webfont-generator) `v0.12.0`
+## [`saorsa-gossip-pubsub`](https://crates.io/crates/saorsa-gossip-pubsub) `v0.5.91`
 
-> Generate webfonts (SVG, TTF, EOT, WOFF, WOFF2) from SVG icons
+> Pub/sub for Saorsa Gossip: Plumtree epidemic broadcast with EAGER/IHAVE/IWANT
 
 | | |
 |---|---|
-| **downloads** | 285 (89 in the last 90 days) |
-| **last updated** | 2026-11-14 |
-| **docs** | https://docs.rs/webfont-generator |
-| **repository** | https://github.com/atlowChemi/vite-svg-2-webfont |
-| **homepage** | https://fonte.atlow.dev/rust/ |
+| **downloads** | 109,236 (87,251 in the last 90 days) |
+| **last updated** | 2026-11-15 |
+| **docs** | https://docs.rs/saorsa-gossip-pubsub |
+| **repository** | https://github.com/saorsa-labs/saorsa-gossip |
 
 ```toml
 [dependencies]
-webfont-generator = "0.12.0"
+saorsa-gossip-pubsub = "0.5.91"
 ```
 
-_picked at 2026-11-14T18:59:44+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-15T19:39:50+00:00 from the crates.io `recent-updates` feed_
