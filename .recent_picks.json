@@ -1,5 +1,4 @@
 [
-  "rsconstruct",
   "mitsuami",
   "bsv-middleware-core",
   "re_data_source",
@@ -28,5 +27,6 @@
   "process-fun",
   "zlink-idl",
   "webfont-generator",
-  "saorsa-gossip-pubsub"
+  "saorsa-gossip-pubsub",
+  "cargo"
 ]
