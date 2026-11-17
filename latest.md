@@ -1,20 +1,20 @@
-# crate of the day — 2026-11-16
+# crate of the day — 2026-11-17
 
-## [`cargo`](https://crates.io/crates/cargo) `v0.100.0`
+## [`xmtr-release`](https://crates.io/crates/xmtr-release) `v0.4.2`
 
-> Cargo, a package manager for Rust.
+> Downloads, verifies and unpacks xmtr release binaries
 
 | | |
 |---|---|
-| **downloads** | 8,390,932 (814,528 in the last 90 days) |
-| **last updated** | 2026-11-16 |
-| **docs** | https://docs.rs/cargo |
-| **repository** | https://github.com/rust-lang/cargo |
-| **homepage** | https://doc.rust-lang.org/cargo/index.html |
+| **downloads** | 212 (212 in the last 90 days) |
+| **last updated** | 2026-11-17 |
+| **docs** | https://docs.rs/xmtr-release |
+| **repository** | https://github.com/Alice39s/xmtr |
+| **homepage** | https://xmsl.dev/ipmap |
 
 ```toml
 [dependencies]
-cargo = "0.100.0"
+xmtr-release = "0.4.2"
 ```
 
-_picked at 2026-11-16T23:16:33+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-17T22:07:33+00:00 from the crates.io `recent-updates` feed_

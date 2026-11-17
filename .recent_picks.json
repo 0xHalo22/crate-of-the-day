@@ -1,5 +1,4 @@
 [
-  "mitsuami",
   "bsv-middleware-core",
   "re_data_source",
   "sarif-viewer",
@@ -28,5 +27,6 @@
   "zlink-idl",
   "webfont-generator",
   "saorsa-gossip-pubsub",
-  "cargo"
+  "cargo",
+  "xmtr-release"
 ]
