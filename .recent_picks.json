@@ -1,5 +1,4 @@
 [
-  "bsv-middleware-core",
   "re_data_source",
   "sarif-viewer",
   "linkrpc-macros",
@@ -28,5 +27,6 @@
   "webfont-generator",
   "saorsa-gossip-pubsub",
   "cargo",
-  "xmtr-release"
+  "xmtr-release",
+  "ossuary-sync"
 ]
