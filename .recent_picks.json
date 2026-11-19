@@ -1,5 +1,4 @@
 [
-  "re_data_source",
   "sarif-viewer",
   "linkrpc-macros",
   "bunsen",
@@ -28,5 +27,6 @@
   "saorsa-gossip-pubsub",
   "cargo",
   "xmtr-release",
-  "ossuary-sync"
+  "ossuary-sync",
+  "optris-sdk"
 ]
