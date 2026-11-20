@@ -1,19 +1,19 @@
-# crate of the day — 2026-11-19
+# crate of the day — 2026-11-20
 
-## [`optris-sdk`](https://crates.io/crates/optris-sdk) `v12.0.15`
+## [`brokk-bifrost-semantic-packs`](https://crates.io/crates/brokk-bifrost-semantic-packs) `v0.15.4`
 
-> Safe, idiomatic Rust bindings for the Optris thermal-imaging SDK.
+> Semantic-pack acquisition, installation, and authoring tooling for brokk-bifrost
 
 | | |
 |---|---|
-| **downloads** | 139 (139 in the last 90 days) |
-| **last updated** | 2026-11-19 |
-| **docs** | https://docs.optris.com/sdks/otc-sdk/ |
-| **homepage** | https://www.optris.com |
+| **downloads** | 1,109 (727 in the last 90 days) |
+| **last updated** | 2026-11-20 |
+| **docs** | https://docs.rs/brokk-bifrost-semantic-packs |
+| **repository** | https://github.com/BrokkAi/bifrost |
 
 ```toml
 [dependencies]
-optris-sdk = "12.0.15"
+brokk-bifrost-semantic-packs = "0.15.4"
 ```
 
-_picked at 2026-11-19T22:03:01+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-20T21:44:22+00:00 from the crates.io `recent-updates` feed_

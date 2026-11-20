@@ -1,5 +1,4 @@
 [
-  "sarif-viewer",
   "linkrpc-macros",
   "bunsen",
   "felix-wire",
@@ -28,5 +27,6 @@
   "cargo",
   "xmtr-release",
   "ossuary-sync",
-  "optris-sdk"
+  "optris-sdk",
+  "brokk-bifrost-semantic-packs"
 ]
