@@ -1,19 +1,19 @@
-# crate of the day — 2026-11-20
+# crate of the day — 2026-11-21
 
-## [`brokk-bifrost-semantic-packs`](https://crates.io/crates/brokk-bifrost-semantic-packs) `v0.15.4`
+## [`jmap-sharing-server`](https://crates.io/crates/jmap-sharing-server) `v0.6.1`
 
-> Semantic-pack acquisition, installation, and authoring tooling for brokk-bifrost
+> JMAP Sharing method handlers (RFC 9670 Principal/ShareNotification) — backend-agnostic, plugs into jmap-server Dispatcher
 
 | | |
 |---|---|
-| **downloads** | 1,109 (727 in the last 90 days) |
-| **last updated** | 2026-11-20 |
-| **docs** | https://docs.rs/brokk-bifrost-semantic-packs |
-| **repository** | https://github.com/BrokkAi/bifrost |
+| **downloads** | 199 (116 in the last 90 days) |
+| **last updated** | 2026-11-21 |
+| **docs** | https://docs.rs/jmap-sharing-server |
+| **repository** | https://github.com/MarkAtwood/crate-jmap |
 
 ```toml
 [dependencies]
-brokk-bifrost-semantic-packs = "0.15.4"
+jmap-sharing-server = "0.6.1"
 ```
 
-_picked at 2026-11-20T21:44:22+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-21T20:25:37+00:00 from the crates.io `recent-updates` feed_

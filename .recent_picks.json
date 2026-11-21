@@ -1,5 +1,4 @@
 [
-  "linkrpc-macros",
   "bunsen",
   "felix-wire",
   "baracuda",
@@ -28,5 +27,6 @@
   "xmtr-release",
   "ossuary-sync",
   "optris-sdk",
-  "brokk-bifrost-semantic-packs"
+  "brokk-bifrost-semantic-packs",
+  "jmap-sharing-server"
 ]
