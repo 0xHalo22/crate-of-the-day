@@ -1,5 +1,4 @@
 [
-  "bunsen",
   "felix-wire",
   "baracuda",
   "haste-macro-loads",
@@ -28,5 +27,6 @@
   "ossuary-sync",
   "optris-sdk",
   "brokk-bifrost-semantic-packs",
-  "jmap-sharing-server"
+  "jmap-sharing-server",
+  "zero-client"
 ]
