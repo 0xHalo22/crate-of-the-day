@@ -1,5 +1,4 @@
 [
-  "baracuda",
   "haste-macro-loads",
   "bevy_embedded_assets",
   "podtrack",
@@ -28,5 +27,6 @@
   "brokk-bifrost-semantic-packs",
   "jmap-sharing-server",
   "zero-client",
-  "tamias-driver"
+  "tamias-driver",
+  "geiserx_ts_peercapability"
 ]

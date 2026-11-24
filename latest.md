@@ -1,20 +1,19 @@
 # crate of the day — 2026-11-24
 
-## [`tamias-driver`](https://crates.io/crates/tamias-driver) `v0.3.0`
+## [`geiserx_ts_peercapability`](https://crates.io/crates/geiserx_ts_peercapability) `v0.58.10`
 
-> content driver host — discovery + dispatch of tamias-driver-<type> (no product knowledge)
+> tailscale peer capability definitions
 
 | | |
 |---|---|
-| **downloads** | 169 (169 in the last 90 days) |
+| **downloads** | 8,330 (4,771 in the last 90 days) |
 | **last updated** | 2026-11-24 |
-| **docs** | https://9aia.com/tamias |
-| **repository** | https://github.com/9aia/tamias |
-| **homepage** | https://9aia.com/tamias |
+| **docs** | https://docs.rs/geiserx_ts_peercapability |
+| **repository** | https://github.com/GeiserX/tailscale-rs |
 
 ```toml
 [dependencies]
-tamias-driver = "0.3.0"
+geiserx_ts_peercapability = "0.58.10"
 ```
 
-_picked at 2026-11-24T01:34:28+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-24T23:25:57+00:00 from the crates.io `recent-updates` feed_
