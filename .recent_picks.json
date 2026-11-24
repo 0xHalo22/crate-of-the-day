@@ -1,5 +1,4 @@
 [
-  "felix-wire",
   "baracuda",
   "haste-macro-loads",
   "bevy_embedded_assets",
@@ -28,5 +27,6 @@
   "optris-sdk",
   "brokk-bifrost-semantic-packs",
   "jmap-sharing-server",
-  "zero-client"
+  "zero-client",
+  "tamias-driver"
 ]
