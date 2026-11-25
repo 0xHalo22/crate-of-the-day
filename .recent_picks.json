@@ -1,5 +1,4 @@
 [
-  "haste-macro-loads",
   "bevy_embedded_assets",
   "podtrack",
   "fnox",
@@ -28,5 +27,6 @@
   "jmap-sharing-server",
   "zero-client",
   "tamias-driver",
-  "geiserx_ts_peercapability"
+  "geiserx_ts_peercapability",
+  "gpui-table-core"
 ]
