@@ -1,5 +1,4 @@
 [
-  "bevy_embedded_assets",
   "podtrack",
   "fnox",
   "aws-sdk-codedeploy",
@@ -28,5 +27,6 @@
   "zero-client",
   "tamias-driver",
   "geiserx_ts_peercapability",
-  "gpui-table-core"
+  "gpui-table-core",
+  "aocl-sparse"
 ]

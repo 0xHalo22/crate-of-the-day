@@ -1,19 +1,19 @@
-# crate of the day — 2026-11-25
+# crate of the day — 2026-11-26
 
-## [`gpui-table-core`](https://crates.io/crates/gpui-table-core) `v0.10.0`
+## [`aocl-sparse`](https://crates.io/crates/aocl-sparse) `v0.2.4`
 
-> Core crate for gpui-table
+> Safe Rust wrappers for AOCL-Sparse (sparse BLAS)
 
 | | |
 |---|---|
-| **downloads** | 305 (305 in the last 90 days) |
-| **last updated** | 2026-11-25 |
-| **docs** | https://docs.rs/gpui-table-core |
-| **repository** | https://github.com/stayhydated/gpui-table |
+| **downloads** | 127 (51 in the last 90 days) |
+| **last updated** | 2026-11-26 |
+| **docs** | https://docs.rs/aocl-sparse |
+| **repository** | https://github.com/ThinkersJournal/aocl |
 
 ```toml
 [dependencies]
-gpui-table-core = "0.10.0"
+aocl-sparse = "0.2.4"
 ```
 
-_picked at 2026-11-25T23:00:14+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-26T22:53:40+00:00 from the crates.io `recent-updates` feed_
