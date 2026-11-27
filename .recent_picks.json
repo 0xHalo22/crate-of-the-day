@@ -1,5 +1,4 @@
 [
-  "podtrack",
   "fnox",
   "aws-sdk-codedeploy",
   "ic-storage",
@@ -28,5 +27,6 @@
   "tamias-driver",
   "geiserx_ts_peercapability",
   "gpui-table-core",
-  "aocl-sparse"
+  "aocl-sparse",
+  "eoka-cli"
 ]

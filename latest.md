@@ -1,19 +1,19 @@
-# crate of the day — 2026-11-26
+# crate of the day — 2026-11-27
 
-## [`aocl-sparse`](https://crates.io/crates/aocl-sparse) `v0.2.4`
+## [`eoka-cli`](https://crates.io/crates/eoka-cli) `v0.26.3`
 
-> Safe Rust wrappers for AOCL-Sparse (sparse BLAS)
+> Browser automation CLI for AI agents and pentesting
 
 | | |
 |---|---|
-| **downloads** | 127 (51 in the last 90 days) |
-| **last updated** | 2026-11-26 |
-| **docs** | https://docs.rs/aocl-sparse |
-| **repository** | https://github.com/ThinkersJournal/aocl |
+| **downloads** | 854 (618 in the last 90 days) |
+| **last updated** | 2026-11-27 |
+| **docs** | https://docs.rs/eoka-cli |
+| **repository** | https://github.com/shrimp-software/eoka-tools |
 
 ```toml
 [dependencies]
-aocl-sparse = "0.2.4"
+eoka-cli = "0.26.3"
 ```
 
-_picked at 2026-11-26T22:53:40+00:00 from the crates.io `recent-updates` feed_
+_picked at 2026-11-27T22:36:07+00:00 from the crates.io `recent-updates` feed_
